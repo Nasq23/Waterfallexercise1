@@ -1,0 +1,27 @@
+{
+    "serviceConnectionSettings" : {
+        "serviceUrl" : "https://online.tableau.com",
+        "connection" : {
+            "connectTimeout" : "00:01:00",
+            "operationTimeout" : "00:15:00",
+            "maxAttemptsToRedirectHttpRequests" : 20
+        },
+        "connectionPool" : {
+            "size" : 4
+        }
+    },
+    "dataSourceRefreshSettings" : {
+        "shutdownTimeoutInSeconds" : "00:00:30",
+        "downloadDataSourcesInterval" : "00:30:00",
+        "checkRefreshDataSourcesInterval" : "00:00:05",
+        "dataSources" : [
+        ]
+    },
+    "loggerSettings" : {
+        "maxLogFileSizeInMB" : 25,
+        "maxBackupLogFileCount" : 40
+    },
+    "dataSyncRestartInterval" : "24:00:00",
+    "internetConnectionMonitorInterval" : "00:00:30",
+    "secureStorageMonitorInterval" : "00:00:30"
+}

@@ -1,0 +1,43 @@
+ Calculate the Amount of Run Off Water
+ 
+     // get the roof dimessions in length an width, in inches
+	 // get the rainfall height in inches
+	 // convert the roof dimensions to inches
+	 // multiply the roof dimensions by rainfall height to get VColume in cubic inches
+	 // divide it by 231 to convert to gallons
+	 
+	------------------------------------------------------
+	
+	Module Main
+	    Declare Real roofLength
+		Declare Real roofWidth
+		Declare Real roofHeight
+		Declare Real lenght
+		Declare Real width
+		Declare volumeInInch
+		Declare Real volumeInGal
+		
+		// get the roof dimensions in length and width, in inches
+		Display "Enter the length of the roof, in ft: "
+		Input roofLength
+		Display "Enter the width of the roof, in ft: "
+		Input roofWidth
+		
+		// get the roof dimsensions in length and width, in inches
+		Display "Enter the height of the waterfall, in inche: "
+		Input rainHeight
+		
+		//convert the roof dimensions to inches
+		// Note : 1 ft = 12 in
+		len = roofLength * 12
+		w = roofWidth * 12
+		
+		// multiply the roof dimensions by rainfall height to get Volume in cubic inches
+		volumeInInch = len * w * rainHeight
+		
+		//divide it by 231 to convert to gallons
+		// Note 1 Gal = 231 cubic inches
+		volumeInGal = volumeInInch / 231
+		Display "The amount of run off water from the rood is ", volumeInGal,
+	End Main
+		

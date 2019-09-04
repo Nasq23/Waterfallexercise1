@@ -1,0 +1,213 @@
+[2017-05-11T09:29:30] Info    : Initialize: Product ID '2628', Product Name 'Fences3', Version '3.04', Company Name 'Stardock', Process Name 'C:\Program Files (x86)\Stardock\Fences\SasUpgrade.exe'.
+[2017-05-11T09:29:30] Info    : Loaded package file 'C:\Program Files (x86)\Stardock\Fences\Default.spak', Version '5'.
+[2017-05-11T09:29:35] Info    : Initialize: Product ID '2628', Product Name 'Fences3', Version '3.0.4.12', Company Name 'Stardock', Process Name 'C:\Windows\Explorer.EXE'.
+[2017-05-11T09:29:35] Info    : Loaded package file 'c:\program files (x86)\stardock\fences\Default.spak', Version '5'.
+[2017-05-11T09:29:36] Info    : Initialize: Product ID '2628', Product Name 'Fences3', Version '3.0.4.12', Company Name 'Stardock', Process Name 'C:\program files (x86)\stardock\fences\Fences.exe'.
+[2017-05-11T09:29:36] Info    : Loaded package file 'C:\Program Files (x86)\Stardock\Fences\Default.spak', Version '5'.
+[2017-05-11T09:29:37] Info    : Initialize: Product ID '2628', Product Name 'Fences3', Version '3.0.4.12', Company Name 'Stardock', Process Name 'C:\Program Files (x86)\Stardock\Fences\SdDisplay.exe'.
+[2017-05-11T09:29:37] Info    : Loaded package file 'C:\Program Files (x86)\Stardock\Fences\Default.spak', Version '5'.
+[2017-05-11T09:29:41] Info    : Initialize: Product ID '2628', Product Name 'Fences3', Version '2.90', Company Name 'Stardock', Process Name 'C:\Program Files (x86)\Stardock\Fences\SasUpgrade.exe'.
+[2017-05-11T09:29:41] Info    : Loaded package file 'C:\Program Files (x86)\Stardock\Fences\Default.spak', Version '5'.
+[2017-05-11T09:29:41] Info    : Submitting Serial Activation request...
+[2017-05-11T09:29:42] Info    : Serial Activation request succeeded!
+[2017-05-11T09:30:07] Info    : Initialize: Product ID '2628', Product Name 'Fences3', Version '3.0.4.12', Company Name 'Stardock', Process Name 'C:\program files (x86)\stardock\fences\Fences.exe'.
+[2017-05-11T09:30:07] Info    : Loaded package file 'C:\Program Files (x86)\Stardock\Fences\Default.spak', Version '5'.
+[2017-05-11T09:30:27] Info    : Initialize: Product ID '2628', Product Name 'Fences3', Version '3.0.4.12', Company Name 'Stardock', Process Name 'C:\program files (x86)\stardock\fences\Fences.exe'.
+[2017-05-11T09:30:27] Info    : Loaded package file 'C:\Program Files (x86)\Stardock\Fences\Default.spak', Version '5'.
+[2017-05-11T09:55:36] Info    : Initialize: Product ID '2628', Product Name 'Fences3', Version '3.0.4.12', Company Name 'Stardock', Process Name 'C:\program files (x86)\stardock\fences\Fences.exe'.
+[2017-05-11T09:55:36] Info    : Loaded package file 'C:\Program Files (x86)\Stardock\Fences\Default.spak', Version '5'.
+[2017-05-11T09:58:46] Info    : Initialize: Product ID '2628', Product Name 'Fences3', Version '3.0.4.12', Company Name 'Stardock', Process Name 'C:\Windows\Explorer.EXE'.
+[2017-05-11T09:58:46] Info    : Loaded package file 'c:\program files (x86)\stardock\fences\Default.spak', Version '5'.
+[2017-05-11T10:02:15] Info    : Initialize: Product ID '2628', Product Name 'Fences3', Version '3.0.4.12', Company Name 'Stardock', Process Name 'C:\program files (x86)\stardock\fences\Fences.exe'.
+[2017-05-11T10:02:15] Info    : Loaded package file 'C:\Program Files (x86)\Stardock\Fences\Default.spak', Version '5'.
+[2017-05-11T11:21:13] Info    : Initialize: Product ID '2628', Product Name 'Fences3', Version '3.0.4.12', Company Name 'Stardock', Process Name 'C:\Windows\Explorer.EXE'.
+[2017-05-11T11:21:13] Info    : Loaded package file 'c:\program files (x86)\stardock\fences\Default.spak', Version '5'.
+[2017-05-11T11:24:48] Info    : Initialize: Product ID '2628', Product Name 'Fences3', Version '3.0.4.12', Company Name 'Stardock', Process Name 'C:\program files (x86)\stardock\fences\Fences.exe'.
+[2017-05-11T11:24:48] Info    : Loaded package file 'C:\Program Files (x86)\Stardock\Fences\Default.spak', Version '5'.
+[2017-05-11T11:26:03] Info    : Initialize: Product ID '2628', Product Name 'Fences3', Version '3.0.4.12', Company Name 'Stardock', Process Name 'C:\program files (x86)\stardock\fences\Fences.exe'.
+[2017-05-11T11:26:03] Info    : Loaded package file 'C:\Program Files (x86)\Stardock\Fences\Default.spak', Version '5'.
+[2017-05-11T11:27:20] Info    : Initialize: Product ID '2628', Product Name 'Fences3', Version '3.0.4.12', Company Name 'Stardock', Process Name 'C:\program files (x86)\stardock\fences\Fences.exe'.
+[2017-05-11T11:27:20] Info    : Loaded package file 'C:\Program Files (x86)\Stardock\Fences\Default.spak', Version '5'.
+[2017-06-16T09:08:17] Info    : Initialize: Product ID '2628', Product Name 'Fences3', Version '3.0.4.12', Company Name 'Stardock', Process Name 'C:\Windows\Explorer.EXE'.
+[2017-06-16T09:08:17] Info    : Loaded package file 'c:\program files (x86)\stardock\fences\Default.spak', Version '5'.
+[2017-06-16T09:08:23] Error   : Validate License (Revoke_LicenseDeactivated) 'The current license has been deactivated. Revoke the current license'.
+[2017-06-16T09:09:16] Info    : Initialize: Product ID '2628', Product Name 'Fences3', Version '3.0.4.12', Company Name 'Stardock', Process Name 'C:\program files (x86)\stardock\fences\Fences.exe'.
+[2017-06-16T09:09:16] Info    : Loaded package file 'C:\Program Files (x86)\Stardock\Fences\Default.spak', Version '5'.
+[2017-06-16T09:09:19] Info    : Initialize: Product ID '2628', Product Name 'Fences3', Version '3.0.4.12', Company Name 'Stardock', Process Name 'C:\Program Files (x86)\Stardock\Fences\SdDisplay.exe'.
+[2017-06-16T09:09:19] Info    : Loaded package file 'C:\Program Files (x86)\Stardock\Fences\Default.spak', Version '5'.
+[2017-06-16T09:09:58] Info    : Initialize: Product ID '2628', Product Name 'Fences3', Version '2.90', Company Name 'Stardock', Process Name 'C:\Program Files (x86)\Stardock\Fences\SasUpgrade.exe'.
+[2017-06-16T09:09:58] Info    : Loaded package file 'C:\Program Files (x86)\Stardock\Fences\Default.spak', Version '5'.
+[2017-06-16T09:09:58] Info    : Submitting Serial Activation request...
+[2017-06-16T09:09:59] Info    : Serial Activation request succeeded!
+[2017-06-16T09:09:59] Info    : Processing Standalone installer Update...
+[2017-06-16T09:10:00] Info    : Initialize: Product ID '2628', Product Name 'Fences3', Version '3.0.4.12', Company Name 'Stardock', Process Name 'c:\program files (x86)\stardock\fences\SdDisplay.exe'.
+[2017-06-16T09:10:00] Info    : Loaded package file 'C:\Program Files (x86)\Stardock\Fences\Default.spak', Version '5'.
+[2017-06-16T11:26:38] Info    : Initialize: Product ID '2628', Product Name 'Fences3', Version '3.0.5.12', Company Name 'Stardock', Process Name 'C:\Windows\Explorer.EXE'.
+[2017-06-16T11:26:38] Info    : Loaded package file 'c:\program files (x86)\stardock\fences\Default.spak', Version '5'.
+[2017-06-16T13:35:13] Info    : Initialize: Product ID '2628', Product Name 'Fences3', Version '3.0.5.12', Company Name 'Stardock', Process Name 'C:\Windows\Explorer.EXE'.
+[2017-06-16T13:35:13] Info    : Loaded package file 'c:\program files (x86)\stardock\fences\Default.spak', Version '5'.
+[2017-06-16T13:46:14] Info    : Initialize: Product ID '2628', Product Name 'Fences3', Version '3.0.5.12', Company Name 'Stardock', Process Name 'C:\Windows\Explorer.EXE'.
+[2017-06-16T13:46:16] Info    : Loaded package file 'c:\program files (x86)\stardock\fences\Default.spak', Version '5'.
+[2017-06-16T14:15:52] Info    : Initialize: Product ID '2628', Product Name 'Fences3', Version '3.0.5.12', Company Name 'Stardock', Process Name 'C:\Windows\Explorer.EXE'.
+[2017-06-16T14:15:52] Info    : Loaded package file 'c:\program files (x86)\stardock\fences\Default.spak', Version '5'.
+[2017-06-16T14:16:57] Info    : Initialize: Product ID '2628', Product Name 'Fences3', Version '3.0.5.12', Company Name 'Stardock', Process Name 'C:\program files (x86)\stardock\fences\Fences.exe'.
+[2017-06-16T14:16:57] Info    : Loaded package file 'C:\Program Files (x86)\Stardock\Fences\Default.spak', Version '5'.
+[2017-06-16T16:12:30] Info    : Initialize: Product ID '2628', Product Name 'Fences3', Version '3.0.5.12', Company Name 'Stardock', Process Name 'C:\Windows\Explorer.EXE'.
+[2017-06-16T16:12:30] Info    : Loaded package file 'c:\program files (x86)\stardock\fences\Default.spak', Version '5'.
+[2017-06-19T10:23:47] Info    : Initialize: Product ID '2628', Product Name 'Fences3', Version '3.0.5.12', Company Name 'Stardock', Process Name 'C:\Windows\Explorer.EXE'.
+[2017-06-19T10:23:47] Info    : Loaded package file 'c:\program files (x86)\stardock\fences\Default.spak', Version '5'.
+[2017-06-19T12:29:05] Info    : Initialize: Product ID '2628', Product Name 'Fences3', Version '3.0.5.12', Company Name 'Stardock', Process Name 'C:\Windows\Explorer.EXE'.
+[2017-06-19T12:29:05] Info    : Loaded package file 'c:\program files (x86)\stardock\fences\Default.spak', Version '5'.
+[2017-06-19T12:52:13] Info    : Initialize: Product ID '2628', Product Name 'Fences3', Version '3.0.5.12', Company Name 'Stardock', Process Name 'C:\Windows\Explorer.EXE'.
+[2017-06-19T12:52:13] Info    : Loaded package file 'c:\program files (x86)\stardock\fences\Default.spak', Version '5'.
+[2017-06-19T13:26:05] Info    : Initialize: Product ID '2628', Product Name 'Fences3', Version '3.0.5.12', Company Name 'Stardock', Process Name 'C:\Windows\Explorer.EXE'.
+[2017-06-19T13:26:05] Info    : Loaded package file 'c:\program files (x86)\stardock\fences\Default.spak', Version '5'.
+[2017-06-19T13:39:58] Info    : Initialize: Product ID '2628', Product Name 'Fences3', Version '3.0.5.12', Company Name 'Stardock', Process Name 'C:\Windows\Explorer.EXE'.
+[2017-06-19T13:39:58] Info    : Loaded package file 'c:\program files (x86)\stardock\fences\Default.spak', Version '5'.
+[2017-06-19T16:01:22] Info    : Initialize: Product ID '2628', Product Name 'Fences3', Version '3.0.5.12', Company Name 'Stardock', Process Name 'C:\program files (x86)\stardock\fences\Fences.exe'.
+[2017-06-19T16:01:22] Info    : Loaded package file 'C:\Program Files (x86)\Stardock\Fences\Default.spak', Version '5'.
+[2017-06-20T10:10:55] Info    : Initialize: Product ID '2628', Product Name 'Fences3', Version '3.0.5.12', Company Name 'Stardock', Process Name 'C:\Windows\Explorer.EXE'.
+[2017-06-20T10:10:55] Info    : Loaded package file 'c:\program files (x86)\stardock\fences\Default.spak', Version '5'.
+[2017-06-22T09:29:52] Info    : Initialize: Product ID '2628', Product Name 'Fences3', Version '3.0.5.12', Company Name 'Stardock', Process Name 'C:\Windows\Explorer.EXE'.
+[2017-06-22T09:29:52] Info    : Loaded package file 'c:\program files (x86)\stardock\fences\Default.spak', Version '5'.
+[2017-06-22T09:43:24] Info    : Initialize: Product ID '2628', Product Name 'Fences3', Version '3.0.5.12', Company Name 'Stardock', Process Name 'C:\Windows\Explorer.EXE'.
+[2017-06-22T09:43:24] Info    : Loaded package file 'c:\program files (x86)\stardock\fences\Default.spak', Version '5'.
+[2017-06-22T10:22:08] Info    : Initialize: Product ID '2628', Product Name 'Fences3', Version '3.0.5.12', Company Name 'Stardock', Process Name 'C:\program files (x86)\stardock\fences\Fences.exe'.
+[2017-06-22T10:22:08] Info    : Loaded package file 'C:\Program Files (x86)\Stardock\Fences\Default.spak', Version '5'.
+[2017-06-23T16:29:37] Info    : Initialize: Product ID '2628', Product Name 'Fences3', Version '3.0.5.12', Company Name 'Stardock', Process Name 'C:\Windows\Explorer.EXE'.
+[2017-06-23T16:29:37] Info    : Loaded package file 'c:\program files (x86)\stardock\fences\Default.spak', Version '5'.
+[2017-06-27T11:36:19] Info    : Initialize: Product ID '2628', Product Name 'Fences3', Version '3.0.5.12', Company Name 'Stardock', Process Name 'C:\Windows\Explorer.EXE'.
+[2017-06-27T11:36:19] Info    : Loaded package file 'c:\program files (x86)\stardock\fences\Default.spak', Version '5'.
+[2017-06-27T11:56:26] Info    : Initialize: Product ID '2628', Product Name 'Fences3', Version '3.0.5.12', Company Name 'Stardock', Process Name 'C:\Windows\Explorer.EXE'.
+[2017-06-27T11:56:26] Info    : Loaded package file 'c:\program files (x86)\stardock\fences\Default.spak', Version '5'.
+[2017-06-27T15:00:41] Info    : Initialize: Product ID '2628', Product Name 'Fences3', Version '3.0.5.12', Company Name 'Stardock', Process Name 'C:\Windows\Explorer.EXE'.
+[2017-06-27T15:00:41] Info    : Loaded package file 'c:\program files (x86)\stardock\fences\Default.spak', Version '5'.
+[2017-07-05T14:56:03] Info    : Initialize: Product ID '2628', Product Name 'Fences3', Version '3.0.5.12', Company Name 'Stardock', Process Name 'C:\Windows\Explorer.EXE'.
+[2017-07-05T14:56:03] Info    : Loaded package file 'c:\program files (x86)\stardock\fences\Default.spak', Version '5'.
+[2017-07-05T14:56:19] Info    : Initialize: Product ID '2628', Product Name 'Fences3', Version '3.0.5.12', Company Name 'Stardock', Process Name 'C:\program files (x86)\stardock\fences\Fences.exe'.
+[2017-07-05T14:56:19] Info    : Loaded package file 'C:\Program Files (x86)\Stardock\Fences\Default.spak', Version '5'.
+[2017-07-05T15:22:17] Info    : Initialize: Product ID '2628', Product Name 'Fences3', Version '3.0.5.12', Company Name 'Stardock', Process Name 'C:\program files (x86)\stardock\fences\Fences.exe'.
+[2017-07-05T15:22:17] Info    : Loaded package file 'C:\Program Files (x86)\Stardock\Fences\Default.spak', Version '5'.
+[2017-07-05T16:17:40] Info    : Initialize: Product ID '2628', Product Name 'Fences3', Version '3.0.5.12', Company Name 'Stardock', Process Name 'C:\Windows\Explorer.EXE'.
+[2017-07-05T16:17:40] Info    : Loaded package file 'c:\program files (x86)\stardock\fences\Default.spak', Version '5'.
+[2017-10-18T09:11:42] Info    : Initialize: Product ID '2628', Product Name 'Fences3', Version '3.0.5.12', Company Name 'Stardock', Process Name 'C:\Windows\Explorer.EXE'.
+[2017-10-18T09:11:42] Info    : Loaded package file 'c:\program files (x86)\stardock\fences\Default.spak', Version '5'.
+[2017-10-18T10:17:23] Info    : Initialize: Product ID '2628', Product Name 'Fences3', Version '3.0.5.12', Company Name 'Stardock', Process Name 'C:\Windows\Explorer.EXE'.
+[2017-10-18T10:17:24] Info    : Loaded package file 'c:\program files (x86)\stardock\fences\Default.spak', Version '5'.
+[2017-10-18T14:01:29] Info    : Initialize: Product ID '2628', Product Name 'Fences3', Version '3.0.5.12', Company Name 'Stardock', Process Name 'C:\Windows\Explorer.EXE'.
+[2017-10-18T14:01:29] Info    : Loaded package file 'c:\program files (x86)\stardock\fences\Default.spak', Version '5'.
+[2017-11-02T09:40:12] Info    : Initialize: Product ID '2628', Product Name 'Fences3', Version '3.0.5.12', Company Name 'Stardock', Process Name 'C:\Windows\Explorer.EXE'.
+[2017-11-02T09:40:12] Info    : Loaded package file 'c:\program files (x86)\stardock\fences\Default.spak', Version '5'.
+[2017-11-02T10:13:11] Info    : Initialize: Product ID '2628', Product Name 'Fences3', Version '3.0.5.12', Company Name 'Stardock', Process Name 'C:\Windows\Explorer.EXE'.
+[2017-11-02T10:13:11] Info    : Loaded package file 'c:\program files (x86)\stardock\fences\Default.spak', Version '5'.
+[2017-11-02T10:29:14] Info    : Initialize: Product ID '2628', Product Name 'Fences3', Version '3.0.5.12', Company Name 'Stardock', Process Name 'C:\Windows\Explorer.EXE'.
+[2017-11-02T10:29:14] Info    : Loaded package file 'c:\program files (x86)\stardock\fences\Default.spak', Version '5'.
+[2017-11-21T10:12:50] Info    : Initialize: Product ID '2628', Product Name 'Fences3', Version '3.0.5.12', Company Name 'Stardock', Process Name 'C:\Windows\Explorer.EXE'.
+[2017-11-21T10:12:51] Info    : Loaded package file 'c:\program files (x86)\stardock\fences\Default.spak', Version '5'.
+[2017-11-21T10:47:45] Info    : Initialize: Product ID '2628', Product Name 'Fences3', Version '3.0.5.12', Company Name 'Stardock', Process Name 'C:\Windows\Explorer.EXE'.
+[2017-11-21T10:47:45] Info    : Loaded package file 'c:\program files (x86)\stardock\fences\Default.spak', Version '5'.
+[2017-12-04T10:06:52] Info    : Initialize: Product ID '2628', Product Name 'Fences3', Version '3.0.5.12', Company Name 'Stardock', Process Name 'C:\Windows\Explorer.EXE'.
+[2017-12-04T10:06:53] Info    : Loaded package file 'c:\program files (x86)\stardock\fences\Default.spak', Version '5'.
+[2017-12-04T10:15:39] Info    : Initialize: Product ID '2628', Product Name 'Fences3', Version '3.0.5.12', Company Name 'Stardock', Process Name 'C:\Windows\Explorer.EXE'.
+[2017-12-04T10:15:39] Info    : Loaded package file 'c:\program files (x86)\stardock\fences\Default.spak', Version '5'.
+[2017-12-04T10:59:07] Info    : Initialize: Product ID '2628', Product Name 'Fences3', Version '3.0.5.12', Company Name 'Stardock', Process Name 'C:\Windows\Explorer.EXE'.
+[2017-12-04T10:59:07] Info    : Loaded package file 'c:\program files (x86)\stardock\fences\Default.spak', Version '5'.
+[2017-12-04T11:14:09] Info    : Initialize: Product ID '2628', Product Name 'Fences3', Version '3.0.5.12', Company Name 'Stardock', Process Name 'C:\Windows\Explorer.EXE'.
+[2017-12-04T11:14:09] Info    : Loaded package file 'c:\program files (x86)\stardock\fences\Default.spak', Version '5'.
+[2017-12-11T14:41:37] Info    : Initialize: Product ID '2628', Product Name 'Fences3', Version '3.0.5.12', Company Name 'Stardock', Process Name 'C:\Windows\Explorer.EXE'.
+[2017-12-11T14:41:37] Info    : Loaded package file 'c:\program files (x86)\stardock\fences\Default.spak', Version '5'.
+[2017-12-11T14:41:42] Error   : Validate License (Revoke_MachineMismatch) 'The machine data does not match the existing license. Revoke the current license.'.
+[2018-01-08T10:33:41] Info    : Initialize: Product ID '2628', Product Name 'Fences3', Version '3.0.5.12', Company Name 'Stardock', Process Name 'C:\Windows\Explorer.EXE'.
+[2018-01-08T10:33:41] Info    : Loaded package file 'c:\program files (x86)\stardock\fences\Default.spak', Version '5'.
+[2018-01-08T11:06:45] Info    : Initialize: Product ID '2628', Product Name 'Fences3', Version '3.0.5.12', Company Name 'Stardock', Process Name 'C:\program files (x86)\stardock\fences\Fences.exe'.
+[2018-01-08T11:06:45] Info    : Loaded package file 'C:\program files (x86)\stardock\fences\Default.spak', Version '5'.
+[2018-01-08T11:20:52] Info    : Initialize: Product ID '2628', Product Name 'Fences3', Version '3.0.5.12', Company Name 'Stardock', Process Name 'C:\Windows\Explorer.EXE'.
+[2018-01-08T11:20:52] Info    : Loaded package file 'c:\program files (x86)\stardock\fences\Default.spak', Version '5'.
+[2018-01-10T10:03:34] Info    : Initialize: Product ID '2628', Product Name 'Fences3', Version '3.0.5.12', Company Name 'Stardock', Process Name 'C:\Windows\Explorer.EXE'.
+[2018-01-10T10:03:34] Info    : Loaded package file 'c:\program files (x86)\stardock\fences\Default.spak', Version '5'.
+[2018-01-10T10:09:26] Info    : Initialize: Product ID '2628', Product Name 'Fences3', Version '3.0.5.12', Company Name 'Stardock', Process Name 'C:\program files (x86)\stardock\fences\Fences.exe'.
+[2018-01-10T10:09:27] Info    : Loaded package file 'C:\Program Files (x86)\Stardock\Fences\Default.spak', Version '5'.
+[2018-01-10T10:43:01] Info    : Initialize: Product ID '2628', Product Name 'Fences3', Version '3.0.5.12', Company Name 'Stardock', Process Name 'C:\program files (x86)\stardock\fences\Fences.exe'.
+[2018-01-10T10:43:02] Info    : Loaded package file 'C:\program files (x86)\stardock\fences\Default.spak', Version '5'.
+[2018-01-10T10:55:56] Info    : Initialize: Product ID '2628', Product Name 'Fences3', Version '3.0.5.12', Company Name 'Stardock', Process Name 'C:\program files (x86)\stardock\fences\Fences.exe'.
+[2018-01-10T10:55:56] Info    : Loaded package file 'C:\program files (x86)\stardock\fences\Default.spak', Version '5'.
+[2018-01-10T10:58:23] Info    : Initialize: Product ID '2628', Product Name 'Fences3', Version '3.0.5.12', Company Name 'Stardock', Process Name 'C:\program files (x86)\stardock\fences\Fences.exe'.
+[2018-01-10T10:58:23] Info    : Loaded package file 'C:\program files (x86)\stardock\fences\Default.spak', Version '5'.
+[2018-01-10T11:07:41] Info    : Initialize: Product ID '2628', Product Name 'Fences3', Version '3.0.5.12', Company Name 'Stardock', Process Name 'C:\program files (x86)\stardock\fences\Fences.exe'.
+[2018-01-10T11:07:41] Info    : Loaded package file 'C:\program files (x86)\stardock\fences\Default.spak', Version '5'.
+[2018-01-10T11:25:02] Info    : Initialize: Product ID '2628', Product Name 'Fences3', Version '3.0.5.12', Company Name 'Stardock', Process Name 'C:\program files (x86)\stardock\fences\Fences.exe'.
+[2018-01-10T11:25:02] Info    : Loaded package file 'C:\program files (x86)\stardock\fences\Default.spak', Version '5'.
+[2018-01-10T11:25:51] Info    : Initialize: Product ID '2628', Product Name 'Fences3', Version '3.0.5.12', Company Name 'Stardock', Process Name 'C:\program files (x86)\stardock\fences\Fences.exe'.
+[2018-01-10T11:25:51] Info    : Loaded package file 'C:\program files (x86)\stardock\fences\Default.spak', Version '5'.
+[2018-01-10T11:38:39] Info    : Initialize: Product ID '2628', Product Name 'Fences3', Version '3.0.5.12', Company Name 'Stardock', Process Name 'C:\program files (x86)\stardock\fences\Fences.exe'.
+[2018-01-10T11:38:40] Info    : Loaded package file 'C:\program files (x86)\stardock\fences\Default.spak', Version '5'.
+[2018-01-10T11:42:31] Info    : Initialize: Product ID '2628', Product Name 'Fences3', Version '3.0.5.12', Company Name 'Stardock', Process Name 'C:\program files (x86)\stardock\fences\Fences.exe'.
+[2018-01-10T11:42:31] Info    : Loaded package file 'C:\program files (x86)\stardock\fences\Default.spak', Version '5'.
+[2018-01-10T11:44:56] Info    : Initialize: Product ID '2628', Product Name 'Fences3', Version '3.0.5.12', Company Name 'Stardock', Process Name 'C:\program files (x86)\stardock\fences\Fences.exe'.
+[2018-01-10T11:44:56] Info    : Loaded package file 'C:\program files (x86)\stardock\fences\Default.spak', Version '5'.
+[2018-01-10T12:19:34] Info    : Initialize: Product ID '2628', Product Name 'Fences3', Version '3.0.5.12', Company Name 'Stardock', Process Name 'C:\program files (x86)\stardock\fences\Fences.exe'.
+[2018-01-10T12:19:34] Info    : Loaded package file 'C:\program files (x86)\stardock\fences\Default.spak', Version '5'.
+[2018-01-10T12:23:33] Info    : Initialize: Product ID '2628', Product Name 'Fences3', Version '3.0.5.12', Company Name 'Stardock', Process Name 'C:\Windows\Explorer.EXE'.
+[2018-01-10T12:23:33] Info    : Loaded package file 'c:\program files (x86)\stardock\fences\Default.spak', Version '5'.
+[2018-01-10T13:01:47] Info    : Initialize: Product ID '2628', Product Name 'Fences3', Version '3.0.5.12', Company Name 'Stardock', Process Name 'C:\program files (x86)\stardock\fences\Fences.exe'.
+[2018-01-10T13:01:47] Info    : Loaded package file 'C:\Program Files (x86)\Stardock\Fences\Default.spak', Version '5'.
+[2018-01-10T15:11:16] Info    : Initialize: Product ID '2628', Product Name 'Fences3', Version '3.0.5.12', Company Name 'Stardock', Process Name 'C:\program files (x86)\stardock\fences\Fences.exe'.
+[2018-01-10T15:11:16] Info    : Loaded package file 'C:\Program Files (x86)\Stardock\Fences\Default.spak', Version '5'.
+[2018-01-10T15:14:20] Info    : Initialize: Product ID '2628', Product Name 'Fences3', Version '3.0.5.12', Company Name 'Stardock', Process Name 'C:\Windows\Explorer.EXE'.
+[2018-01-10T15:14:20] Info    : Loaded package file 'c:\program files (x86)\stardock\fences\Default.spak', Version '5'.
+[2018-01-10T15:14:38] Info    : Initialize: Product ID '2628', Product Name 'Fences3', Version '3.0.5.12', Company Name 'Stardock', Process Name 'C:\program files (x86)\stardock\fences\Fences.exe'.
+[2018-01-10T15:14:38] Info    : Loaded package file 'C:\Program Files (x86)\Stardock\Fences\Default.spak', Version '5'.
+[2018-01-10T16:31:06] Info    : Initialize: Product ID '2628', Product Name 'Fences3', Version '3.0.5.12', Company Name 'Stardock', Process Name 'C:\Windows\Explorer.EXE'.
+[2018-01-10T16:31:06] Info    : Loaded package file 'c:\program files (x86)\stardock\fences\Default.spak', Version '5'.
+[2018-01-11T09:18:19] Info    : Initialize: Product ID '2628', Product Name 'Fences3', Version '3.0.5.12', Company Name 'Stardock', Process Name 'C:\Windows\Explorer.EXE'.
+[2018-01-11T09:18:19] Info    : Loaded package file 'c:\program files (x86)\stardock\fences\Default.spak', Version '5'.
+[2018-01-16T10:20:01] Info    : Initialize: Product ID '2628', Product Name 'Fences3', Version '3.0.5.12', Company Name 'Stardock', Process Name 'C:\Windows\Explorer.EXE'.
+[2018-01-16T10:20:01] Info    : Loaded package file 'c:\program files (x86)\stardock\fences\Default.spak', Version '5'.
+[2018-01-16T10:53:52] Info    : Initialize: Product ID '2628', Product Name 'Fences3', Version '3.0.5.12', Company Name 'Stardock', Process Name 'C:\Windows\Explorer.EXE'.
+[2018-01-16T10:53:52] Info    : Loaded package file 'c:\program files (x86)\stardock\fences\Default.spak', Version '5'.
+[2018-01-17T09:52:33] Info    : Initialize: Product ID '2628', Product Name 'Fences3', Version '3.0.5.12', Company Name 'Stardock', Process Name 'C:\Windows\Explorer.EXE'.
+[2018-01-17T09:52:33] Info    : Loaded package file 'c:\program files (x86)\stardock\fences\Default.spak', Version '5'.
+[2018-01-17T09:57:47] Info    : Initialize: Product ID '2628', Product Name 'Fences3', Version '3.0.5.12', Company Name 'Stardock', Process Name 'C:\program files (x86)\stardock\fences\Fences.exe'.
+[2018-01-17T09:57:47] Info    : Loaded package file 'C:\Program Files (x86)\Stardock\Fences\Default.spak', Version '5'.
+[2018-01-17T11:04:21] Info    : Initialize: Product ID '2628', Product Name 'Fences3', Version '3.0.5.12', Company Name 'Stardock', Process Name 'C:\Windows\Explorer.EXE'.
+[2018-01-17T11:04:21] Info    : Loaded package file 'c:\program files (x86)\stardock\fences\Default.spak', Version '5'.
+[2018-01-25T13:53:33] Info    : Initialize: Product ID '2628', Product Name 'Fences3', Version '3.0.5.12', Company Name 'Stardock', Process Name 'C:\Windows\Explorer.EXE'.
+[2018-01-25T13:53:33] Info    : Loaded package file 'c:\program files (x86)\stardock\fences\Default.spak', Version '5'.
+[2018-02-21T09:47:52] Info    : Initialize: Product ID '2628', Product Name 'Fences3', Version '3.0.5.12', Company Name 'Stardock', Process Name 'C:\Windows\Explorer.EXE'.
+[2018-02-21T09:47:52] Info    : Loaded package file 'c:\program files (x86)\stardock\fences\Default.spak', Version '5'.
+[2018-02-21T09:48:33] Error   : HTTPS POST 'https://activate.api.stardock.net/sas/2014-02-01/activation/validatelicense' Encountered an error: GetResponse::WinHttpReceiveResponse failed
+[2018-02-21T09:49:05] Error   : HTTPS POST 'https://activate.api.stardock.net/sas/2014-02-01/activation/validatelicense' Encountered an error: GetResponse::WinHttpReceiveResponse failed
+[2018-02-21T09:49:37] Error   : HTTPS POST 'https://activate.api.stardock.net/sas/2014-02-01/activation/validatelicense' Encountered an error: GetResponse::WinHttpReceiveResponse failed
+[2018-02-21T09:49:37] Error   : Validate License: Failed to make connection to Activation Server.
+[2018-02-21T15:19:06] Info    : Initialize: Product ID '2628', Product Name 'Fences3', Version '3.0.5.12', Company Name 'Stardock', Process Name 'C:\Windows\Explorer.EXE'.
+[2018-02-21T15:19:06] Info    : Loaded package file 'c:\program files (x86)\stardock\fences\Default.spak', Version '5'.
+[2018-02-21T15:22:59] Info    : Initialize: Product ID '2628', Product Name 'Fences3', Version '3.0.5.12', Company Name 'Stardock', Process Name 'C:\Windows\Explorer.EXE'.
+[2018-02-21T15:22:59] Info    : Loaded package file 'c:\program files (x86)\stardock\fences\Default.spak', Version '5'.
+[2018-02-21T15:39:40] Info    : Initialize: Product ID '2628', Product Name 'Fences3', Version '3.0.5.12', Company Name 'Stardock', Process Name 'C:\Windows\Explorer.EXE'.
+[2018-02-21T15:39:40] Info    : Loaded package file 'c:\program files (x86)\stardock\fences\Default.spak', Version '5'.
+[2018-03-29T09:36:07] Info    : Initialize: Product ID '2628', Product Name 'Fences3', Version '3.0.5.12', Company Name 'Stardock', Process Name 'C:\Windows\Explorer.EXE'.
+[2018-03-29T09:36:07] Info    : Loaded package file 'c:\program files (x86)\stardock\fences\Default.spak', Version '5'.
+[2018-03-29T09:36:13] Error   : Validate License (Revoke_MachineMismatch) 'The machine data does not match the existing license. Revoke the current license.'.
+[2018-03-29T09:42:58] Info    : Initialize: Product ID '2628', Product Name 'Fences3', Version '3.0.5.12', Company Name 'Stardock', Process Name 'C:\program files (x86)\stardock\fences\Fences.exe'.
+[2018-03-29T09:42:58] Info    : Loaded package file 'C:\Program Files (x86)\Stardock\Fences\Default.spak', Version '5'.
+[2018-03-29T10:02:59] Info    : Initialize: Product ID '2628', Product Name 'Fences3', Version '3.0.5.12', Company Name 'Stardock', Process Name 'C:\Windows\Explorer.EXE'.
+[2018-03-29T10:02:59] Info    : Loaded package file 'c:\program files (x86)\stardock\fences\Default.spak', Version '5'.
+[2018-03-29T10:26:35] Info    : Initialize: Product ID '2628', Product Name 'Fences3', Version '3.0.5.12', Company Name 'Stardock', Process Name 'C:\Windows\Explorer.EXE'.
+[2018-03-29T10:26:35] Info    : Loaded package file 'c:\program files (x86)\stardock\fences\Default.spak', Version '5'.
+[2019-08-30T09:46:49] Info    : Initialize: Product ID '2628', Product Name 'Fences3', Version '3.0.5.12', Company Name 'Stardock', Process Name 'C:\Windows\Explorer.EXE'.
+[2019-08-30T09:46:49] Info    : Loaded package file 'c:\program files (x86)\stardock\fences\Default.spak', Version '5'.
+[2019-08-30T09:46:55] Error   : Validate License (Revoke_LicenseDeactivated) 'The current license has been deactivated. Revoke the current license'.
+[2019-09-03T10:30:15] Info    : Initialize: Product ID '2628', Product Name 'Fences3', Version '3.0.5.12', Company Name 'Stardock', Process Name 'C:\Windows\Explorer.EXE'.
+[2019-09-03T10:30:15] Info    : Loaded package file 'c:\program files (x86)\stardock\fences\Default.spak', Version '5'.
+[2019-09-03T10:30:17] Info    : Initialize: Product ID '2628', Product Name 'Fences3', Version '3.0.5.12', Company Name 'Stardock', Process Name 'C:\program files (x86)\stardock\fences\Fences.exe'.
+[2019-09-03T10:30:17] Info    : Loaded package file 'C:\Program Files (x86)\Stardock\Fences\Default.spak', Version '5'.
+[2019-09-03T10:30:18] Info    : Initialize: Product ID '2628', Product Name 'Fences3', Version '3.0.5.12', Company Name 'Stardock', Process Name 'C:\Program Files (x86)\Stardock\Fences\SdDisplay.exe'.
+[2019-09-03T10:30:18] Info    : Loaded package file 'C:\Program Files (x86)\Stardock\Fences\Default.spak', Version '5'.
+[2019-09-03T11:30:16] Info    : Initialize: Product ID '2628', Product Name 'Fences3', Version '3.0.5.12', Company Name 'Stardock', Process Name 'c:\program files (x86)\stardock\fences\SdDisplay.exe'.
+[2019-09-03T11:30:16] Info    : Loaded package file 'C:\Program Files (x86)\Stardock\Fences\Default.spak', Version '5'.
+[2019-09-04T08:41:02] Info    : Initialize: Product ID '2628', Product Name 'Fences3', Version '3.0.5.12', Company Name 'Stardock', Process Name 'C:\Windows\Explorer.EXE'.
+[2019-09-04T08:41:02] Info    : Loaded package file 'c:\program files (x86)\stardock\fences\Default.spak', Version '5'.
+[2019-09-04T08:41:04] Info    : Initialize: Product ID '2628', Product Name 'Fences3', Version '3.0.5.12', Company Name 'Stardock', Process Name 'C:\program files (x86)\stardock\fences\Fences.exe'.
+[2019-09-04T08:41:04] Info    : Loaded package file 'C:\Program Files (x86)\Stardock\Fences\Default.spak', Version '5'.
+[2019-09-04T08:41:05] Info    : Initialize: Product ID '2628', Product Name 'Fences3', Version '3.0.5.12', Company Name 'Stardock', Process Name 'C:\Program Files (x86)\Stardock\Fences\SdDisplay.exe'.
+[2019-09-04T08:41:05] Info    : Loaded package file 'C:\Program Files (x86)\Stardock\Fences\Default.spak', Version '5'.

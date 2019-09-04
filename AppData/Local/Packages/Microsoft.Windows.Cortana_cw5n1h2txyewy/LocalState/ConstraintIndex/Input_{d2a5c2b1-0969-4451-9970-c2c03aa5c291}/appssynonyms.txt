@@ -1,0 +1,2470 @@
+*|3d builder	*|.3	4932
+*|3d builder	*|3.	5204
+*|7-zip file manager	*|7 zip	3584
+*|7-zip file manager	*|7zip	1562
+*|@{microsoft.windowsstore_2015.25.5.0_x64__8wekyb3d8bbwe?ms-resource://microsoft.windowsstore/resources/storetitle}	*|windows store	2007
+*|access 2013	*|msaccess	5980
+*|access 2013	*|acess	5786
+*|access 2016	*|acess	5330
+*|access 2016	*|ms	4835
+*|acrobat reader dc	*|adobe reade	4066
+*|acrylic wi-fi home	*|wifi	786
+*|active directory users and computers	*|dsa	3736
+*|active sky next	*|asn	1662
+*|ad-aware antivirus	*|adaware	1877
+*|adobe creative cloud	*|adobe cloud	5497
+*|adobe photoshop cs6 (64 bit)	*|phôt	6422
+*|adobe reader touch	*|pdf	3055
+*|adobe reader x	*|acro	3567
+*|adobe reader xi	*|acro	3512
+*|adobe reader xi	*|pdf	3140
+*|adsi edit	*|adsiedit	2603
+*|advanced design system 2015.01	*|ads	1
+*|ai suite 3	*|aisuite	3952
+*|alarms & clock	*|set an alarm	6122
+*|alarms & clock	*|alarm clock	5334
+*|alarms & clock	*|set alarm	5509
+*|alarms & clock	*|stopwatch	6487
+*|alarms & clock	*|alaem	7265
+*|alarms & clock	*|alar,	7190
+*|alarms & clock	*|alram	7133
+*|alarms & clock	*|timer	2477
+*|alarms & clock	*|alam	5800
+*|alarms & clock	*|alrm	6295
+*|alorica at home gateway v3	*|we	1707
+*|amd catalyst control center	*|radeon	5396
+*|amd catalyst control center	*|ati	5815
+*|amd catalyst control center	*|ccc	3302
+*|amd gaming evolved	*|raptr	2265
+*|anaconda command prompt	*|cmd	1361
+*|anaconda prompt	*|cmd	2115
+*|angry ip scanner	*|ipscan	3752
+*|anteckningar	*|notepad	456
+*|any video converter	*|avc	2631
+*|any video converter ultimate	*|avc	2865
+*|aol system information	*|sinf	1
+*|apple software update	*|apple update	4117
+*|application manager	*|avid	1
+*|asphalt 8: airborne	*|as[	6742
+*|asphalt 8: airborne	*|á	6214
+*|audiowizard	*|maxx	3620
+*|aw command center	*|alienware	2655
+*|b&o play	*|bo	2192
+*|baidu browser	*|spark	3047
+*|battle.net	*|battle net	6728
+*|battle.net	*|battlenet	7493
+*|battle.net	*|blizzard	7505
+*|battlefield 4	*|bf4	2909
+*|battlefield 4™ (64 bit)	*|bf4	2670
+*|big-ip edge client	*|big ip	3088
+*|big-ip edge client	*|f5	1784
+*|bittorrent sync	*|bt	2222
+*|blade & soul	*|nc	4369
+*|bloc-notes	*|notepad	1635
+*|bloco de notas	*|notepad	1692
+*|bs.player free	*|bspl	3091
+*|calculadora	*|calculator	4635
+*|calculadora	*|cacl	5966
+*|calculator	*|where is the calculator	11043
+*|calculator	*|open calculator	8733
+*|calculator	*|rekenmachine	11070
+*|calculator	*|calalculator	10821
+*|calculator	*|calaculator	10716
+*|calculator	*|calculatior	10418
+*|calculator	*|calculadora	8546
+*|calculator	*|calculator'	10525
+*|calculator	*|calculatore	9993
+*|calculator	*|calculatort	11019
+*|calculator	*|callculator	10720
+*|calculator	*|calculatoir	10880
+*|calculator	*|calculators	10641
+*|calculator	*|calculartor	11127
+*|calculator	*|calculatoer	10851
+*|calculator	*|caalculator	10214
+*|calculator	*|calculation	9898
+*|calculator	*|caluculator	10679
+*|calculator	*|calculaator	11047
+*|calculator	*|claculator	9450
+*|calculator	*|calculatir	10061
+*|calculator	*|caluclator	9602
+*|calculator	*|calculated	11058
+*|calculator	*|caclulator	9954
+*|calculator	*|calculatpr	11043
+*|calculator	*|calculater	7168
+*|calculator	*|calcularot	10891
+*|calculator	*|calculatot	10169
+*|calculator	*|calcualtor	8529
+*|calculator	*|calculaotr	9721
+*|calculator	*|calculatro	9172
+*|calculator	*|kalkulator	10286
+*|calculator	*|calcilator	10987
+*|calculator	*|calcultor	8915
+*|calculator	*|calulator	8406
+*|calculator	*|converter	10581
+*|calculator	*|calclator	9750
+*|calculator	*|caculator	7532
+*|calculator	*|calcuator	8948
+*|calculator	*|caculater	9782
+*|calculator	*|calculaor	9159
+*|calculator	*|clculator	10008
+*|calculator	*|calcutor	10039
+*|calculator	*|calcalc	10135
+*|calculator	*|rechner	10133
+*|calculator	*|calcuka	10548
+*|calculator	*|calcukl	10579
+*|calculator	*|calclc	9174
+*|calculator	*|calclu	9720
+*|calculator	*|calcuy	10593
+*|calculator	*|calcui	9944
+*|calculator	*|calcau	10981
+*|calculator	*|cacalc	10886
+*|calculator	*|calccu	10374
+*|calculator	*|calcu'	11032
+*|calculator	*|cakcy	10799
+*|calculator	*|caklc	9973
+*|calculator	*|cal c	11004
+*|calculator	*|calc'	8828
+*|calculator	*|calc.	10373
+*|calculator	*|calc4	9768
+*|calculator	*|calce	10600
+*|calculator	*|calck	10656
+*|calculator	*|calco	9532
+*|calculator	*|calc]	10005
+*|calculator	*|calcv	9795
+*|calculator	*|calcx	10136
+*|calculator	*|calcy	9084
+*|calculator	*|calkc	9494
+*|calculator	*|calll	11095
+*|calculator	*|caloc	11087
+*|calculator	*|calvc	10945
+*|calculator	*|calxc	10373
+*|calculator	*|caqlc	10551
+*|calculator	*|caslc	10368
+*|calculator	*|ccalc	9350
+*|calculator	*|clalc	10787
+*|calculator	*|cvalc	11054
+*|calculator	*|hesap	10884
+*|calculator	*|c alc	10194
+*|calculator	*|caclc	8917
+*|calculator	*|cakcu	10872
+*|calculator	*|cacc	10634
+*|calculator	*|ca,c	10774
+*|calculator	*|cslc	9668
+*|calculator	*|acal	10894
+*|calculator	*|caol	10198
+*|calculator	*|calb	11043
+*|calculator	*|ca'l	9099
+*|calculator	*|cal]	10449
+*|calculator	*|cald	9185
+*|calculator	*|culc	10479
+*|calculator	*|calf	10980
+*|calculator	*|cqlc	10580
+*|calculator	*|cal4	9807
+*|calculator	*|aclc	10189
+*|calculator	*|cal.	10672
+*|calculator	*|calm	10930
+*|calculator	*|زشمز	10541
+*|calculator	*|cal'	9757
+*|calculator	*|cals	8418
+*|calculator	*|calt	10381
+*|calculator	*|xalc	11101
+*|calculator	*|каль	10925
+*|calculator	*|сфдс	10279
+*|calculator	*|בשךב	10928
+*|calculator	*|ؤشمؤ	10569
+*|calculator	*|cau	8365
+*|calculator	*|ca.	9921
+*|calculator	*|csa	10812
+*|calculator	*|cx	10811
+*|calculator	*|va	10957
+*|calculator	*|cz	9800
+*|calculator	*|câ	10862
+*|calendar	*|open calendar	6743
+*|calendar	*|calandar	6476
+*|calendar	*|calander	4478
+*|calendar	*|calender	3010
+*|calendar	*|cla	6758
+*|camera	*|where is the camera	9118
+*|camera	*|computer camera	9288
+*|camera	*|camera settings	7746
+*|camera	*|take a picture	7200
+*|camera	*|turn on camera	8739
+*|camera	*|windows camera	7705
+*|camera	*|take a photo	8534
+*|camera	*|take picture	7730
+*|camera	*|video camera	7402
+*|camera	*|open webcam	8189
+*|camera	*|open camera	6576
+*|camera	*|camera app	8806
+*|camera	*|take photo	8173
+*|camera	*|my camera	8929
+*|camera	*|my webcam	9046
+*|camera	*|video re	8733
+*|camera	*|cameras	8360
+*|camera	*|cammera	8850
+*|camera	*|caamera	7745
+*|camera	*|cameera	8385
+*|camera	*|ccamera	8915
+*|camera	*|cameria	8954
+*|camera	*|camera'	8299
+*|camera	*|cameraa	7835
+*|camera	*|camerra	8732
+*|camera	*|camersa	9025
+*|camera	*|camerea	8479
+*|camera	*|camaera	8948
+*|camera	*|cameara	9239
+*|camera	*|camrea	7118
+*|camera	*|canera	7685
+*|camera	*|cmaera	7504
+*|camera	*|kamera	9092
+*|camera	*|ca,era	7826
+*|camera	*|camara	5618
+*|camera	*|camare	9275
+*|camera	*|web ca	8628
+*|camera	*|camerq	9134
+*|camera	*|caera	7628
+*|camera	*|camra	5217
+*|camera	*|cmera	7208
+*|camera	*|cam,	9059
+*|camera	*|cam'	8973
+*|camera	*|camw	7172
+*|cameră foto	*|camera	1
+*|caméra	*|camera	1517
+*|canopy 64-bit command prompt	*|cmd	1
+*|ccleaner	*|cc c	6540
+*|character map	*|char map	5650
+*|character map	*|charmap	2659
+*|character map	*|symbol	5879
+*|chạy	*|run	1
+*|cheat engine 6.4 (64-bit)	*|cheatengine	3497
+*|chembiodraw ultra 14.0	*|chemdraw	1474
+*|chromium	*|chrome	2218
+*|cisco anyconnect secure mobility client	*|cic	6668
+*|cisco anyconnect secure mobility client	*|vpn	1949
+*|clock	*|what is the time	3793
+*|clock	*|what time is it?	2330
+*|clock	*|world clock	3376
+*|clock	*|watch	3380
+*|clock	*|time	969
+*|combat arms	*|nexon	2680
+*|command line	*|cmd	1
+*|command prompt	*|elevated command prompt	10003
+*|command prompt	*|open command prompt	9865
+*|command prompt	*|windows command	10280
+*|command prompt	*|commandprompt	10399
+*|command prompt	*|comand prompt	8950
+*|command prompt	*|command promt	8409
+*|command prompt	*|command prop	10441
+*|command prompt	*|command line	8193
+*|command prompt	*|command.com	9304
+*|command prompt	*|run command	8871
+*|command prompt	*|cmd prompt	9802
+*|command prompt	*|dos prompt	9737
+*|command prompt	*|commmand	9772
+*|command prompt	*|commands	10053
+*|command prompt	*|c prompt	10202
+*|command prompt	*|terminal	6333
+*|command prompt	*|open cmd	9717
+*|command prompt	*|commadn	9637
+*|command prompt	*|cammand	9740
+*|command prompt	*|coomand	10142
+*|command prompt	*|run cmd	8028
+*|command prompt	*|ipconfi	9686
+*|command prompt	*|console	9215
+*|command prompt	*|cmd.exe	6210
+*|command prompt	*|cmdcmd	8457
+*|command prompt	*|commnd	10233
+*|command prompt	*|ms dos	9009
+*|command prompt	*|ms-dos	10060
+*|command prompt	*|run as	9668
+*|command prompt	*|"cmd"	10253
+*|command prompt	*|c'm'd	9147
+*|command prompt	*|commo	9559
+*|command prompt	*|commd	10071
+*|command prompt	*|cmdmd	7281
+*|command prompt	*|comme	10176
+*|command prompt	*|msdos	8583
+*|command prompt	*|shell	10592
+*|command prompt	*|.cmd	9234
+*|command prompt	*|c md	9073
+*|command prompt	*|cmed	9005
+*|command prompt	*|cmds	8105
+*|command prompt	*|c,md	9696
+*|command prompt	*|ccmd	8127
+*|command prompt	*|xcmd	10325
+*|command prompt	*|cmd4	9355
+*|command prompt	*|cm d	9442
+*|command prompt	*|cm,d	9023
+*|command prompt	*|cmd'	6942
+*|command prompt	*|cmd]	8397
+*|command prompt	*|cmdd	7240
+*|command prompt	*|cmde	8252
+*|command prompt	*|cmdf	8002
+*|command prompt	*|dcmd	10200
+*|command prompt	*|comd	7962
+*|command prompt	*|cmsd	8498
+*|command prompt	*|cmnd	7859
+*|command prompt	*|cvmd	10064
+*|command prompt	*|cxmd	9868
+*|command prompt	*|cmmd	8033
+*|command prompt	*|cnmd	8881
+*|command prompt	*|ping	5660
+*|command prompt	*|rcmd	8649
+*|command prompt	*|cmfd	9095
+*|command prompt	*|adb	9626
+*|command prompt	*|c,d	7589
+*|command prompt	*|mcd	7561
+*|command prompt	*|xmd	8237
+*|command prompt	*|cmp	7356
+*|command prompt	*|cnd	6392
+*|command prompt	*|cmg	8873
+*|command prompt	*|сьв	10218
+*|command prompt	*|ؤةي	10325
+*|command prompt	*|زئی	9712
+*|command prompt	*|cmc	8382
+*|command prompt	*|smd	8361
+*|command prompt	*|cmb	7723
+*|command prompt	*|cdm	6046
+*|command prompt	*|md	9276
+*|command prompt (1)	*|cmd	1
+*|command prompt - nt	*|cmd	1
+*|command prompt with ruby and rails	*|cmd	958
+*|command shell	*|cmd	1
+*|component services	*|.com	3726
+*|composite command prompt	*|cmd	1
+*|computer management	*|manage computer	7108
+*|computer management	*|computer co	7642
+*|computer management	*|compmgmt	5257
+*|computer management	*|com[	7384
+*|conexão de área de trabalho remota	*|mstsc	550
+*|conexão de área de trabalho remota	*|area	1960
+*|configuration du système	*|msconfig	1
+*|configuration manager console	*|sccm	3117
+*|configuration wizard	*|crm	496
+*|configuração do sistema	*|msconfig	1
+*|configure java	*|java con	4274
+*|configure java	*|javac	6236
+*|connexion bureau à distance	*|mstsc	1
+*|contact support	*|microsoft support	3375
+*|contact support	*|windows support	3566
+*|contacts	*|icloud	1940
+*|content manager assistant for playstation(r)	*|cma	2539
+*|control center & documentation	*|pcc	1
+*|control panel	*|appearance and personalization	10198
+*|control panel	*|where is the control panel?	10504
+*|control panel	*|where is my control panel	10093
+*|control panel	*|system and maintenance	10884
+*|control panel	*|where is control panel	9095
+*|control panel	*|windows control panel	10323
+*|control panel	*|configuration manager	10160
+*|control panel	*|network and internet	8931
+*|control panel	*|go to control panel	9958
+*|control panel	*|system and security	8626
+*|control panel	*|find control panel	9840
+*|control panel	*|system preferences	9966
+*|control panel	*|open control panel	7389
+*|control panel	*|painel de controle	10372
+*|control panel	*|panel de control	9601
+*|control panel	*|uninstall a pro	10789
+*|control panel	*|control panael	10350
+*|control panel	*|control panels	9557
+*|control panel	*|control panekl	10701
+*|control panel	*|controll panel	8838
+*|control panel	*|conntrol panel	10992
+*|control panel	*|control panelo	10847
+*|control panel	*|control panerl	10431
+*|control panel	*|control planel	10025
+*|control panel	*|control p[anel	10534
+*|control panel	*|control [panel	10843
+*|control panel	*|control panel.	10771
+*|control panel	*|control pannel	6903
+*|control panel	*|control panel'	9877
+*|control panel	*|control panell	9946
+*|control panel	*|controle panel	10077
+*|control panel	*|control paneel	10957
+*|control panel	*|computer panel	10594
+*|control panel	*|control panelk	10488
+*|control panel	*|system control	10392
+*|control panel	*|controlcontrol	10508
+*|control panel	*|control pantel	10799
+*|control panel	*|conttrol panel	10899
+*|control panel	*|coontrol panel	10701
+*|control panel	*|ccontrol panel	10191
+*|control panel	*|control center	8466
+*|control panel	*|control apnel	10428
+*|control panel	*|contorl panel	8445
+*|control panel	*|contril panel	10886
+*|control panel	*|conrtol panel	10683
+*|control panel	*|control pamel	10259
+*|control panel	*|control panet	9939
+*|control panel	*|control palen	10662
+*|control panel	*|control oanel	10692
+*|control panel	*|panel control	9241
+*|control panel	*|control [anel	10185
+*|control panel	*|control panes	10982
+*|control panel	*|control paenl	10789
+*|control panel	*|comtrol panel	9735
+*|control panel	*|control pane'	10668
+*|control panel	*|control penal	10887
+*|control panel	*|control panal	7700
+*|control panel	*|control psnel	10901
+*|control panel	*|control pnael	9846
+*|control panel	*|control panle	8709
+*|control panel	*|contral panel	10083
+*|control panel	*|control pnel	9043
+*|control panel	*|cntrol panel	10358
+*|control panel	*|control pael	9398
+*|control panel	*|conrol panel	8728
+*|control panel	*|contol panel	8062
+*|control panel	*|control anel	9631
+*|control panel	*|controlpanel	7314
+*|control panel	*|contro panel	8405
+*|control panel	*|contrl panel	9322
+*|control panel	*|cotrol panel	9403
+*|control panel	*|control pad	10851
+*|control panel	*|control po	10798
+*|control panel	*|contontrol	10920
+*|control panel	*|conontrol	9743
+*|control panel	*|smart ges	10930
+*|control panel	*|controlon	9490
+*|control panel	*|control m	10445
+*|control panel	*|controln	10001
+*|control panel	*|c ontrol	10534
+*|control panel	*|controil	9360
+*|control panel	*|controkl	10032
+*|control panel	*|ciontrol	10776
+*|control panel	*|controlr	10628
+*|control panel	*|controls	9196
+*|control panel	*|controlt	10766
+*|control panel	*|controol	8397
+*|control panel	*|co ntrol	11001
+*|control panel	*|contrrol	9144
+*|control panel	*|contrtol	9132
+*|control panel	*|control.	10085
+*|control panel	*|contyrol	9436
+*|control panel	*|cointrol	10269
+*|control panel	*|conytrol	10463
+*|control panel	*|contorol	9577
+*|control panel	*|copntrol	10256
+*|control panel	*|comntrol	9889
+*|control panel	*|cpontrol	10815
+*|control panel	*|con trol	9687
+*|control panel	*|conbtrol	10424
+*|control panel	*|contriol	9474
+*|control panel	*|congtrol	9957
+*|control panel	*|conmtrol	9794
+*|control panel	*|controal	9051
+*|control panel	*|conotrol	10711
+*|control panel	*|parental	11033
+*|control panel	*|contreol	9376
+*|control panel	*|conrtrol	10464
+*|control panel	*|constrol	10709
+*|control panel	*|conterol	10029
+*|control panel	*|contgrol	9726
+*|control panel	*|contraol	9157
+*|control panel	*|control'	10012
+*|control panel	*|control,	10601
+*|control panel	*|control4	10098
+*|control panel	*|control]	10984
+*|control panel	*|controla	9411
+*|control panel	*|controld	10608
+*|control panel	*|controlk	9474
+*|control panel	*|contropl	10400
+*|control panel	*|xontrol	9376
+*|control panel	*|conttol	10008
+*|control panel	*|cnotrol	10404
+*|control panel	*|conyrol	9864
+*|control panel	*|conytol	9356
+*|control panel	*|contrik	9828
+*|control panel	*|conteol	9783
+*|control panel	*|cotnrol	10576
+*|control panel	*|cpntrol	9226
+*|control panel	*|cantrol	8438
+*|control panel	*|contro'	10036
+*|control panel	*|gamepad	10746
+*|control panel	*|contoll	10741
+*|control panel	*|cintrol	9153
+*|control panel	*|c0ntrol	9384
+*|control panel	*|contolr	10279
+*|control panel	*|contrlo	9867
+*|control panel	*|adapter	9901
+*|control panel	*|contro,	9948
+*|control panel	*|conreol	9555
+*|control panel	*|contro.	10082
+*|control panel	*|congrol	10326
+*|control panel	*|controm	10717
+*|control panel	*|contron	8488
+*|control panel	*|systems	10789
+*|control panel	*|unstall	10588
+*|control panel	*|contrpl	9550
+*|control panel	*|contrpo	10632
+*|control panel	*|cobtrol	10103
+*|control panel	*|contrn	10689
+*|control panel	*|contru	10928
+*|control panel	*|instal	11003
+*|control panel	*|concon	10421
+*|control panel	*|pannel	10199
+*|control panel	*|contr'	10704
+*|control panel	*|cpanel	8909
+*|control panel	*|cpmtrp	10118
+*|control panel	*|kontr	10584
+*|control panel	*|conti	10113
+*|control panel	*|cibtr	10557
+*|control panel	*|appli	10752
+*|control panel	*|contn	10185
+*|control panel	*|contl	10250
+*|control panel	*|wajam	10422
+*|control panel	*|guest	10567
+*|control panel	*|con'	10834
+*|control panel	*|cond	10429
+*|control panel	*|elan	11035
+*|control panel	*|conl	10671
+*|control panel	*|conp	10730
+*|control panel	*|ccc	11155
+*|control panel	*|add	8055
+*|control panel	*|coj	10053
+*|control panel	*|زخد	10820
+*|control panel	*|제어판	11011
+*|control panel	*|c:	10094
+*|controlconsole api	*|ccapi	1212
+*|core ftp le	*|coreftp	2620
+*|correo	*|mail	1470
+*|corsair utility engine	*|cue	4671
+*|counter-strike 1.6	*|cs	2210
+*|counter-strike global offensive	*|cs	4318
+*|counter-strike global offensive warzone	*|cs	750
+*|coyote the outlander	*|z	1
+*|cpu-z	*|cpu z	3930
+*|cpu-z	*|cpuz	2253
+*|create usb recovery	*|create recovery	4339
+*|creative solutions accounting	*|csa	1
+*|crossfire	*|cf	2496
+*|cyberlink youcam	*|camera	2844
+*|cyberlink youcam	*|webcam	2836
+*|cyberlink youcam	*|video	4095
+*|cyberlink youcam 5	*|web cam	4448
+*|cyberlink youcam 5	*|camera	2437
+*|cyberlink youcam 5	*|webcam	2360
+*|cyberlink youcam 5	*|video	3384
+*|cyberlink youcam 6	*|web cam	4372
+*|cyberlink youcam 6	*|camera	2496
+*|cyberlink youcam 6	*|webcam	2427
+*|cyberlink youcam 6	*|video	3863
+*|cámara	*|camara	1798
+*|cámara	*|camera	2336
+*|câmera	*|camera	759
+*|cốc cốc	*|coc coc	4063
+*|cốc cốc	*|côc	3834
+*|daemon tools lite	*|dt	5080
+*|default programs	*|default applications	7413
+*|default programs	*|set default programs	7085
+*|default programs	*|program defaults	7198
+*|default programs	*|set defaults	7068
+*|default programs	*|open with	7188
+*|default programs	*|defauklt	7725
+*|default programs	*|defaults	4601
+*|default programs	*|progrmas	7896
+*|default programs	*|control	3464
+*|default programs	*|defauly	7079
+*|default programs	*|defualt	5866
+*|default programs	*|progams	7125
+*|default programs	*|defaut	6147
+*|default programs	*|defult	5987
+*|default programs	*|defai	6831
+*|default programs	*|defal	5994
+*|defragment and optimize drives	*|why is my computer so slow	7140
+*|defragment and optimize drives	*|disk defragmenter	5306
+*|defragment and optimize drives	*|defragmentation	7295
+*|defragment and optimize drives	*|defragmenter	6754
+*|defragment and optimize drives	*|disc defrag	6214
+*|defragment and optimize drives	*|defraggler	7729
+*|defragment and optimize drives	*|scan disk	5788
+*|defragment and optimize drives	*|defrage	6527
+*|defragment and optimize drives	*|drive d	7554
+*|defragment and optimize drives	*|disk fr	7595
+*|defragment and optimize drives	*|d drive	6534
+*|defragment and optimize drives	*|defraf	6867
+*|defragment and optimize drives	*|defreg	7286
+*|defragment and optimize drives	*|degrag	6248
+*|defragment and optimize drives	*|diskde	7607
+*|defragment and optimize drives	*|difrag	7543
+*|defragment and optimize drives	*|dfrgui	6618
+*|defragment and optimize drives	*|defag	6598
+*|defragment and optimize drives	*|dfrag	7092
+*|defragment and optimize drives	*|derag	7631
+*|defragment and optimize drives	*|defrs	7675
+*|defragment and optimize drives	*|defrg	6796
+*|dell help & support	*|dell support	2673
+*|dev-c++	*|dev c	3717
+*|dev-c++	*|devc	3844
+*|developer command prompt for vs2015	*|cmd	1353
+*|disk clean-up	*|disk cleanup	3279
+*|disk clean-up	*|cleanup	3285
+*|disk cleanup	*|cleanmgr.exe	7772
+*|disk cleanup	*|clean disk	6137
+*|disk cleanup	*|c clea	8337
+*|disk cleanup	*|disk d	6680
+*|disk cleanup	*|disck	8102
+*|disk cleanup	*|dí	7849
+*|dj intro	*|serato	884
+*|don't starve	*|dont	498
+*|dragon service	*|cmd	1
+*|dropbox	*|dro[	7162
+*|ds3 tool	*|motio	4729
+*|dấu nhắc lệnh	*|cmd	1
+*|e-post	*|mail	554
+*|e-sword	*|esword	1894
+*|e-trade pro (windows)	*|etrade	488
+*|editor	*|notepad	1362
+*|eingabeaufforderung	*|cmd	1
+*|electronic service control	*|esc	1
+*|enterprise architect	*|ea	1241
+*|epic games launcher	*|unreal	4317
+*|epson scan	*|es	4886
+*|epson scan settings	*|es	2467
+*|escáner	*|scan	1
+*|event manager	*|ep	1
+*|event viewer	*|eventvwr	5383
+*|exact audio copy	*|eac	566
+*|excel 2013	*|microsoft excell	8980
+*|excel 2013	*|microsoft office	7310
+*|excel 2013	*|microsoft exel	8394
+*|excel 2013	*|spreadsheet	8360
+*|excel 2013	*|open excel	6756
+*|excel 2013	*|ms excel	7633
+*|excel 2013	*|msexcel	9033
+*|excel 2013	*|excell	5109
+*|excel 2013	*|exccel	7803
+*|excel 2013	*|exceel	8807
+*|excel 2013	*|execel	8338
+*|excel 2013	*|office	6764
+*|excel 2013	*|excek	7051
+*|excel 2013	*|excle	7731
+*|excel 2013	*|execl	8135
+*|excel 2013	*|excwl	8238
+*|excel 2013	*|exell	8206
+*|excel 2013	*|ecxel	8507
+*|excel 2013	*|escel	8676
+*|excel 2013	*|wxcel	7890
+*|excel 2013	*|ecel	6245
+*|excel 2013	*|excd	8604
+*|excel 2013	*|excx	8468
+*|excel 2013	*|e'x	8607
+*|excel 2013	*|exx	9004
+*|excel 2013	*|xl	9023
+*|excel 2013	*|ẽ	7094
+*|excel 2016	*|microsoft office	6417
+*|excel 2016	*|microsoft excel	5854
+*|excel 2016	*|spreadsheet	8293
+*|excel 2016	*|open excel	6603
+*|excel 2016	*|ms excel	8020
+*|excel 2016	*|exccel	8145
+*|excel 2016	*|excell	5021
+*|excel 2016	*|office	5388
+*|excel 2016	*|excek	7058
+*|excel 2016	*|excle	7831
+*|excel 2016	*|excwl	8330
+*|excel 2016	*|execl	8243
+*|excel 2016	*|exell	8297
+*|excel 2016	*|wxcel	8100
+*|excel 2016	*|ecel	6340
+*|excel 2016	*|ẽ	7798
+*|executare	*|run	1
+*|exécuter	*|exe	1
+*|fa forever lobby	*|faf	393
+*|facebook	*|facebook.	7717
+*|fallout mod manager	*|fomm	1425
+*|fastaccess	*|fac	1654
+*|faststone capture	*|fs	3104
+*|façade	*|facade	1
+*|ferramenta de captura	*|snip	3113
+*|file explorer	*|open file explorer	7104
+*|file explorer	*|where are my files	6187
+*|file explorer	*|windows explorer	3803
+*|file explorer	*|window explorer	7031
+*|file explorer	*|file manager	5423
+*|file explorer	*|exploer	6880
+*|file explorer	*|files	2512
+*|file explorer	*|expo	6476
+*|file explorer	*|e:	5801
+*|file explorer	*|f:	5960
+*|filezilla	*|ftp	5115
+*|films & tv	*|movie	1682
+*|films & tv	*|video	1500
+*|final fantasy xiv - a realm reborn	*|ffxiv	3183
+*|flux	*|f.	3951
+*|football manager 2015	*|fm	964
+*|free download manager	*|fdm	1938
+*|fresh paint	*|freshpaint	5292
+*|games for windows marketplace	*|gfwl	3576
+*|garena+	*|gả	4765
+*|garry's mod	*|garrys	2855
+*|geforce experience	*|shadowplay	5635
+*|geforce experience	*|nvidia ex	6426
+*|geforce experience	*|nvidia ge	6171
+*|geforce experience	*|gefore	5441
+*|geforce experience	*|gforce	6521
+*|geforce experience	*|nvida	6445
+*|geforce experience	*|nvide	6593
+*|geforce experience	*|nivi	6501
+*|get skype	*|open skype	5137
+*|get skype	*|video chat	7539
+*|get skype	*|messaging	6995
+*|get skype	*|skypekype	7519
+*|get skype	*|scype	7151
+*|get skype	*|skipe	6000
+*|get skype	*|sky[	7162
+*|get skype	*|syk	6811
+*|get skype	*|syp	5966
+*|get started	*|windows 10 tutorial	4510
+*|get started	*|windows 10 help	3344
+*|get started	*|windows help	3912
+*|get started	*|tutorial	3983
+*|get started	*|help	1827
+*|gimp 2	*|gimp2	6121
+*|gimp 2	*|gim[	6367
+*|git bash	*|gitbash	3803
+*|git extensions	*|gitex	3322
+*|global vpn client	*|sonicwall	4231
+*|go-global	*|go global	1352
+*|google chrome	*|google.c	8828
+*|google chrome	*|chrome'	8734
+*|google chrome	*|chrome]	9685
+*|google chrome	*|google'	9582
+*|google chrome	*|gooogle	9679
+*|google chrome	*|chorme	8705
+*|google chrome	*|chrom,	9515
+*|google chrome	*|crhome	9559
+*|google chrome	*|goggle	8851
+*|google chrome	*|googel	9493
+*|google chrome	*|googlr	8958
+*|google chrome	*|googlw	9673
+*|google chrome	*|chome	8445
+*|google chrome	*|chro,	8213
+*|google chrome	*|chron	9718
+*|google chrome	*|crome	7432
+*|google chrome	*|gogle	8697
+*|google chrome	*|goole	9279
+*|google chrome	*|chr'	9677
+*|google chrome	*|cj	9367
+*|google chrome	*|cg	8524
+*|google chrome	*|gô	9149
+*|google cloud sdk shell	*|cmd	1
+*|google drive	*|googledrive	6212
+*|google earth	*|googleearth	6407
+*|google earth	*|google.	6970
+*|google play music	*|google music	2700
+*|grand theft auto v	*|gta	1603
+*|grand theft auto: san andreas ["ao" version]	*|gta	1
+*|groove music	*|play my music	5618
+*|groove music	*|free music	6921
+*|groove music	*|open music	7136
+*|groove music	*|play music	4514
+*|groove music	*|xbox music	6761
+*|groove music	*|groovw	7428
+*|groove music	*|grrove	7444
+*|groove music	*|goove	7177
+*|groove music	*|grooo	7491
+*|groove music	*|grove	5931
+*|groove music	*|musci	6855
+*|groove music	*|radio	5674
+*|groove music	*|songs	5733
+*|groove music	*|zune	6376
+*|groove music	*|mui	7293
+*|groove música	*|music	2041
+*|guild wars 2	*|gw2	2732
+*|h&r block 2014	*|hr	417
+*|h&r block 2015	*|hr	583
+*|hard disk sentinel	*|hd	888
+*|hd tune	*|hdtune	1481
+*|hd tune pro	*|hdtune	2229
+*|heroes of newerth	*|hon	1427
+*|hesap makinesi	*|calcu	3363
+*|hi-rez diagnostics and support	*|hi rez	2380
+*|hi-rez diagnostics and support	*|hirez	1973
+*|home	*|roxio	1
+*|hotspot shield	*|hss	4218
+*|hp aio printer remote	*|hp printer	2738
+*|hp scan	*|hpscan	4913
+*|hp support assistant	*|hp ass	4255
+*|hp support assistant	*|hps	4890
+*|hrs toolbar	*|bing	896
+*|hwmonitor	*|cpui	5232
+*|hyper-v manager	*|hyper v	4225
+*|hyper-v manager	*|hyperv	3631
+*|i.r.i.s. ocr registration	*|iris	1265
+*|idle (python 3.5 32-bit)	*|python idle	5058
+*|idle (python gui)	*|python idle	4801
+*|ignite	*|aeria	1782
+*|iheartradio	*|i heart	5460
+*|image composite editor	*|ice	215
+*|intel(r) driver update utility	*|intel driver	3178
+*|intel(r) extreme tuning utility	*|xtu	1622
+*|intel® hd graphics control panel	*|intel hd	3464
+*|intel® rapid storage technology	*|intel rapid	3273
+*|interactive ruby	*|irb	1319
+*|internet download accelerator	*|ida	356
+*|internet download manager	*|idman	6644
+*|internet download manager	*|id,	6987
+*|internet explorer	*|microsoft internet explorer	10248
+*|internet explorer	*|where is internet explorer?	10162
+*|internet explorer	*|start internet explorer	10225
+*|internet explorer	*|open internet explorer	7656
+*|internet explorer	*|internet explorer 11	7905
+*|internet explorer	*|internet explorere	7950
+*|internet explorer	*|internet expolorer	10417
+*|internet explorer	*|internet exploerer	9667
+*|internet explorer	*|internet exploreer	9110
+*|internet explorer	*|microsoft explorer	8574
+*|internet explorer	*|enternet explorer	9276
+*|internet explorer	*|internet exployer	8534
+*|internet explorer	*|internet exploror	10409
+*|internet explorer	*|interent explorer	10096
+*|internet explorer	*|internetexplorer	8330
+*|internet explorer	*|inernet explorer	9854
+*|internet explorer	*|internet exlorer	10013
+*|internet explorer	*|internet exporer	8991
+*|internet explorer	*|internet browser	10356
+*|internet explorer	*|internet eplorer	9958
+*|internet explorer	*|intenet explorer	9908
+*|internet explorer	*|iexplorer.exe	9535
+*|internet explorer	*|iexplore.exe	7898
+*|internet explorer	*|explorer 11	9779
+*|internet explorer	*|web browser	10137
+*|internet explorer	*|internetr	9392
+*|internet explorer	*|ineternet	9104
+*|internet explorer	*|internetn	10346
+*|internet explorer	*|internet'	10025
+*|internet explorer	*|internert	8900
+*|internet explorer	*|inter net	10080
+*|internet explorer	*|interenet	8188
+*|internet explorer	*|internett	9923
+*|internet explorer	*|internety	9384
+*|internet explorer	*|internext	10322
+*|internet explorer	*|internter	9213
+*|internet explorer	*|intertnet	10223
+*|internet explorer	*|internest	9909
+*|internet explorer	*|internent	10133
+*|internet explorer	*|iinternet	9693
+*|internet explorer	*|interney	8712
+*|internet explorer	*|imternet	9826
+*|internet explorer	*|inetrnet	10174
+*|internet explorer	*|interbet	9563
+*|internet explorer	*|internrt	10413
+*|internet explorer	*|intenret	8616
+*|internet explorer	*|itnernet	9668
+*|internet explorer	*|iexploer	10339
+*|internet explorer	*|browser	7904
+*|internet explorer	*|enernet	10228
+*|internet explorer	*|open ie	9829
+*|internet explorer	*|interet	8199
+*|internet explorer	*|ieplore	10436
+*|internet explorer	*|exploer	7632
+*|internet explorer	*|interna	8764
+*|internet explorer	*|exporer	10077
+*|internet explorer	*|int exp	10021
+*|internet explorer	*|intener	9311
+*|internet explorer	*|eplorer	9542
+*|internet explorer	*|intrnet	8941
+*|internet explorer	*|iternet	9010
+*|internet explorer	*|interm	8964
+*|internet explorer	*|inteer	8937
+*|internet explorer	*|inter'	9348
+*|internet explorer	*|intwer	9509
+*|internet explorer	*|inyter	10275
+*|internet explorer	*|ionter	10147
+*|internet explorer	*|intetr	10383
+*|internet explorer	*|innter	9219
+*|internet explorer	*|intewr	9270
+*|internet explorer	*|inter]	10341
+*|internet explorer	*|intner	9211
+*|internet explorer	*|intnet	10000
+*|internet explorer	*|ie.exe	9813
+*|internet explorer	*|intter	10007
+*|internet explorer	*|هدفثق	10329
+*|internet explorer	*|intnt	10233
+*|internet explorer	*|intre	8040
+*|internet explorer	*|omter	10399
+*|internet explorer	*|intrr	10072
+*|internet explorer	*|intrt	9792
+*|internet explorer	*|ie 11	7839
+*|internet explorer	*|intwr	10377
+*|internet explorer	*|inyrt	9489
+*|internet explorer	*|inty	9300
+*|internet explorer	*|ie11	7064
+*|internet explorer	*|in'	10313
+*|internet explorer	*|i.e	10350
+*|internet explorer	*|ixl	8641
+*|internet explorer	*|iee	8348
+*|internet explorer	*|ex[	9037
+*|internet explorer	*|inr	7539
+*|internet explorer	*|inm	9314
+*|internet explorer	*|i e	8925
+*|internet explorer	*|ei	10214
+*|internet explorer	*|هث	10335
+*|internet explorer (no add-ons)	*|ie	1952
+*|internet information services (iis) manager	*|iis manager	5564
+*|internet information services (iis) manager	*|inetmgr	2900
+*|internet information services (iis) manager	*|iss	5914
+*|invite de commandes	*|cmd	60
+*|ipvanish	*|vpn	2668
+*|itaú	*|itau	351
+*|itunes	*|i tunes	8370
+*|itunes	*|itunes'	7905
+*|itunes	*|ituen	8325
+*|itunes	*|itues	8703
+*|itunes	*|itub	8221
+*|itunes	*|ity	8903
+*|itunes	*|iy	8310
+*|jack command	*|cmd	1
+*|join.me	*|join me	3897
+*|kalkulaator	*|calc	338
+*|kalkulator	*|calculator	4075
+*|kalkulators	*|calc	318
+*|kalkulačka	*|calc	1088
+*|kalkylatorn	*|calc	824
+*|kamera	*|camera	1977
+*|keepass 2	*|keypass	5760
+*|kh ultra trainer	*|kong	569
+*|kladblok	*|notepad	1480
+*|knipprogramma	*|snip	2370
+*|komentokehote	*|cmd	1
+*|kommandoprompt	*|cmd	1
+*|kommandotolken	*|cmd	1
+*|komut İstemi	*|cmd	1
+*|laskin	*|calc	878
+*|launch v-ray license server	*|vray	1
+*|league of legends	*|leauge	7109
+*|league of legends	*|leage	6834
+*|league of legends	*|lol	2500
+*|league of legends	*|la	7258
+*|ledetekst	*|cmd	1
+*|lego digital designer	*|ldd	1388
+*|linha de comandos	*|cmd	1
+*|linie de comandă	*|cmd	1
+*|local security policy	*|local policy	4791
+*|local security policy	*|secpol.	4097
+*|log parser 2.2	*|cmd	447
+*|logmein hamachi	*|him	6433
+*|loja	*|store	1306
+*|lol recorder	*|lolre	1504
+*|lommeregner	*|calc	1413
+*|lync 2013	*|skype for business	4501
+*|magic set editor	*|mse	1128
+*|magic the gathering online	*|magic online	3961
+*|magic the gathering online	*|mtgo	1742
+*|magnifier	*|magnifer	5760
+*|magnifier	*|magnify	3895
+*|mail	*|windows live mail	6988
+*|mail	*|windows mail	6243
+*|mail	*|open email	7764
+*|mail	*|live mail	7412
+*|mail	*|open mail	6794
+*|mail	*|mail app	7809
+*|mail	*|my email	8068
+*|mail	*|e mail	7715
+*|mail	*|e-mail	7846
+*|mail	*|emails	8208
+*|mail	*|inbox	6877
+*|mail	*|mail'	7748
+*|mail	*|mail.	7767
+*|mail	*|mailk	8140
+*|mail	*|maill	8012
+*|mail	*|maik	7564
+*|mail	*|maio	8140
+*|mail	*|mial	7445
+*|mail	*|msil	7966
+*|mail	*|mil	7810
+*|malwarebytes anti-malware	*|mbam	4752
+*|malwarebytes anti-malware notifications	*|mbam	4804
+*|maplestory	*|nexon	2905
+*|maps	*|windows maps	5673
+*|maps	*|directions	5006
+*|maps	*|bing maps	5450
+*|maps	*|us map	6450
+*|maps	*|maos	6210
+*|math input panel	*|mi	2847
+*|mcafee livesafe – internet security	*|macaf	5610
+*|media composer	*|avid	1
+*|media player classic	*|mpc	1886
+*|media player classic (x64)	*|mpc	793
+*|media player classic home cinema	*|mpc	1157
+*|media player classic home cinema (64bit)	*|mpc	861
+*|meshlabserver	*|cmd	1
+*|micollab client 6.0	*|uca	953
+*|microsoft access 2010	*|ms	3197
+*|microsoft assessment and planning toolkit	*|map	1
+*|microsoft edge	*|internet explorer 10	8843
+*|microsoft edge	*|internet explorer 11	8766
+*|microsoft edge	*|microsft edge	8724
+*|microsoft edge	*|open internet	7535
+*|microsoft edge	*|web browser	8623
+*|microsoft edge	*|open edge	6868
+*|microsoft edge	*|enternet	7862
+*|microsoft edge	*|browser	6273
+*|microsoft edge	*|ms edge	8611
+*|microsoft edge	*|spartan	7008
+*|microsoft edge	*|edge'	7939
+*|microsoft edge	*|edgfe	8552
+*|microsoft edge	*|eddge	7895
+*|microsoft edge	*|edege	8824
+*|microsoft edge	*|egde	6733
+*|microsoft edge	*|e'd	8762
+*|microsoft edge	*|ege	8308
+*|microsoft edge	*|ie	5452
+*|microsoft excel 2010	*|ẽ	6639
+*|microsoft flight simulator x	*|fsx	1253
+*|microsoft it diagnostics utility	*|msit	1
+*|microsoft network monitor 3.4	*|netmon	956
+*|microsoft office 2010	*|ms	4132
+*|microsoft office access 2007	*|microsoft access	3955
+*|microsoft office access 2007	*|ms	2518
+*|microsoft office excel 2007	*|microsoft excel	5202
+*|microsoft office excel 2007	*|ẽ	7200
+*|microsoft office onenote 2007	*|one n	3036
+*|microsoft office outlook 2007	*|microsoft outlook	5471
+*|microsoft office picture manager	*|microsoft picture	4229
+*|microsoft office powerpoint 2007	*|microsoft powerpoint	5908
+*|microsoft office powerpoint 2007	*|power po	5143
+*|microsoft office publisher 2007	*|microsoft publisher	4103
+*|microsoft office publisher 2007	*|ms	2968
+*|microsoft office word 2003	*|microsoft word	3485
+*|microsoft office word 2003	*|winword	4201
+*|microsoft office word 2007	*|microsoft word	3981
+*|microsoft office word 2007	*|office 2007	8111
+*|microsoft office word 2007	*|winword	4090
+*|microsoft office word 2007	*|ms wor	7833
+*|microsoft office word viewer 2003	*|microsoft word	1850
+*|microsoft onenote 2010	*|one n	3489
+*|microsoft powerpoint 2010	*|power po	5165
+*|microsoft powerpoint 2010	*|powerpnt	7054
+*|microsoft powerpoint 2010	*|pơ	7048
+*|microsoft publisher 2010	*|ms	4995
+*|microsoft solitaire collection	*|solataire	6751
+*|microsoft solitaire collection	*|solitarie	7401
+*|microsoft solitaire collection	*|solitiare	7570
+*|microsoft solitaire collection	*|klondike	6120
+*|microsoft solitaire collection	*|solitare	3769
+*|microsoft solitaire collection	*|soltaire	7724
+*|microsoft solitaire collection	*|soliter	7463
+*|microsoft solitaire collection	*|soliat	7778
+*|microsoft solitaire collection	*|soll	7515
+*|microsoft sql server management studio	*|sql mana	2923
+*|microsoft sql server management studio	*|ssms	1392
+*|microsoft test manager	*|mtm	513
+*|microsoft test manager 2013	*|mtm	477
+*|microsoft test manager 2015	*|mtm	698
+*|microsoft visual basic 2008 express edition	*|vb	1958
+*|microsoft visual basic 2010 express	*|vb	2116
+*|microsoft visual basic 6.0	*|vb6	2685
+*|microsoft visual studio 2010	*|devenv	4821
+*|microsoft wi-fi	*|microsoft wifi	2544
+*|microsoft wi-fi	*|wi fi	1355
+*|microsoft wi-fi client	*|wifi	1
+*|microsoft word 2010	*|winword	4236
+*|microsoft word 2010	*|ms wor	8572
+*|microsoft works word processor	*|microsoft word	2371
+*|mobile mouse	*|air	1281
+*|money	*|finance	3141
+*|money	*|stocks	3076
+*|mouse and keyboard settings	*|setpoint	1477
+*|mouse settings	*|wow	773
+*|movie maker	*|windows movie maker	3624
+*|movie maker	*|windows moviemaker	7783
+*|movie maker	*|window movie maker	7606
+*|movie maker	*|windows move	7003
+*|movie maker	*|windows live	7427
+*|movie maker	*|moive maker	7730
+*|movie maker	*|video maker	7635
+*|movie maker	*|video edit	6867
+*|movie maker	*|move maker	7697
+*|movie maker	*|moviemaker	4699
+*|movie maker	*|moviw	6845
+*|movie maker	*|movir	7668
+*|movies & tv	*|movies  tv	6411
+*|movies & tv	*|xbox video	4977
+*|movies & tv	*|*.mov	6545
+*|movies & tv	*|vedio	6244
+*|movies & tv	*|video	1998
+*|movies & tv	*|vido	6176
+*|mozilla firefox	*|fire f	8962
+*|mozilla firefox	*|mozila	7458
+*|mozilla firefox	*|fire'	8758
+*|mozilla firefox	*|fore	8873
+*|mozilla firefox	*|mozz	8318
+*|mozilla firefox	*|fie	8232
+*|music	*|groove	2824
+*|máy tính tay	*|cal	1302
+*|máy tính tay	*|may	1080
+*|máy ảnh	*|camera	1
+*|narrator	*|narator	4069
+*|need for speed most wanted	*|nfs	1544
+*|netextender cli client	*|cmd	1
+*|netflix	*|open netflix	7192
+*|netflix	*|netflix'	8846
+*|netflix	*|netflix.	8774
+*|netflix	*|netfilx	9500
+*|netflix	*|netflex	8488
+*|netflix	*|netflic	7874
+*|netflix	*|netfliz	8743
+*|netflix	*|netlfix	8664
+*|netflix	*|neflix	8517
+*|netflix	*|netfix	8028
+*|netflix	*|netflx	8651
+*|netflix	*|netlix	8705
+*|netflix	*|netet	8562
+*|netflix	*|netfk	9384
+*|netflix	*|neet	8493
+*|netflix	*|nert	8920
+*|netflix	*|net'	8478
+*|netflix	*|net]	9316
+*|netflix	*|netd	9406
+*|netflix	*|nety	9284
+*|netflix	*|next	9423
+*|netflix	*|nnet	9103
+*|news	*|newa	4869
+*|nexus mod manager	*|nmm	5798
+*|nightly	*|firefox	2664
+*|node.js command prompt	*|cmd	714
+*|nomachine	*|nx	2689
+*|notepad	*|where is notepad	10127
+*|notepad	*|open notepad	7755
+*|notepad	*|notepad.exe	8195
+*|notepad	*|text editor	8950
+*|notepad	*|note book	9558
+*|notepad	*|note pade	10247
+*|notepad	*|nnotepad	9233
+*|notepad	*|nootepad	9289
+*|notepad	*|textedit	9974
+*|notepad	*|notedpad	8679
+*|notepad	*|noteepad	9001
+*|notepad	*|notenote	9737
+*|notepad	*|noteopad	9781
+*|notepad	*|notep[ad	9241
+*|notepad	*|notepaad	8967
+*|notepad	*|notepad'	9252
+*|notepad	*|notepoad	9415
+*|notepad	*|notepad4	9913
+*|notepad	*|notepada	10239
+*|notepad	*|notepadd	8232
+*|notepad	*|notepade	7644
+*|notepad	*|notepadf	8774
+*|notepad	*|notepado	9585
+*|notepad	*|notepads	8878
+*|notepad	*|notepafd	9998
+*|notepad	*|notepaid	10148
+*|notepad	*|noptepad	9353
+*|notepad	*|note[pad	9967
+*|notepad	*|notepasd	8713
+*|notepad	*|noteppad	9768
+*|notepad	*|noterpad	9922
+*|notepad	*|notespad	10237
+*|notepad	*|noteapad	8793
+*|notepad	*|notrepad	10009
+*|notepad	*|rnotepad	10186
+*|notepad	*|noitepad	9939
+*|notepad	*|text pad	9873
+*|notepad	*|notebook	6395
+*|notepad	*|nitepad	9659
+*|notepad	*|note[ad	7662
+*|notepad	*|botepad	9697
+*|notepad	*|notepsd	10136
+*|notepad	*|motepad	9317
+*|notepad	*|noteoad	8712
+*|notepad	*|notepag	9351
+*|notepad	*|notepda	8832
+*|notepad	*|textpad	7916
+*|notepad	*|notepat	9325
+*|notepad	*|not pad	9234
+*|notepad	*|noteapd	7159
+*|notepad	*|notapad	9726
+*|notepad	*|notpead	8568
+*|notepad	*|nodepad	9628
+*|notepad	*|notepar	10086
+*|notepad	*|notwpad	10072
+*|notepad	*|noyepad	10188
+*|notepad	*|notebad	9196
+*|notepad	*|noetpad	8558
+*|notepad	*|nptepad	10116
+*|notepad	*|notrpad	9885
+*|notepad	*|ntoepad	8055
+*|notepad	*|norepad	9398
+*|notepad	*|notote	9659
+*|notepad	*|notete	8703
+*|notepad	*|notead	7570
+*|notepad	*|noepad	7985
+*|notepad	*|ntepad	8634
+*|notepad	*|notpad	6075
+*|notepad	*|notepe	10165
+*|notepad	*|nopad	10229
+*|notepad	*|note]	9981
+*|notepad	*|notwe	8584
+*|notepad	*|note'	9394
+*|notepad	*|notye	9250
+*|notepad	*|nbote	10086
+*|notepad	*|bloco	8815
+*|notepad	*|n ote	9604
+*|notepad	*|notas	9415
+*|notepad	*|niote	9335
+*|notepad	*|notew	8237
+*|notepad	*|notte	8348
+*|notepad	*|nope	8473
+*|notepad	*|noyr	9163
+*|notepad	*|klad	8513
+*|notepad	*|memo	7421
+*|notepad	*|noyt	9500
+*|notepad	*|mpte	9691
+*|notepad	*|npo	9508
+*|notepad	*|nog	10032
+*|notepad	*|txt	8213
+*|notepad++	*|notepad ++	6610
+*|notepad++	*|note++	7946
+*|notepad++	*|note[	7498
+*|notisblokk	*|notepad	738
+*|odbc data sources (32-bit)	*|odbcad32	3967
+*|on-screen keyboard	*|on screen keyboard	5873
+*|on-screen keyboard	*|onscreen keyboard	7091
+*|on-screen keyboard	*|virtual keyboard	6429
+*|on-screen keyboard	*|key board	7268
+*|on-screen keyboard	*|keybord	6827
+*|on-screen keyboard	*|teclado	7480
+*|on-screen keyboard	*|osk	3439
+*|onedrive	*|microsoft one drive	6941
+*|onedrive	*|microsoft onedrive	6545
+*|onedrive	*|microsoft cloud	7413
+*|onedrive	*|one drive	2316
+*|onedrive	*|sky drive	7317
+*|onedrive	*|the cloud	7808
+*|onedrive	*|onedirve	7196
+*|onedrive	*|skydrive	5748
+*|onedrive	*|onedrie	7504
+*|onedrive	*|cloud	4031
+*|onedrive	*|onede	7358
+*|onedrive for business	*|one drive for business	5097
+*|onedrive for business	*|groove	5240
+*|onedrive for business 2013	*|one drive for business	4574
+*|onenote	*|one note	4390
+*|onenote 2013	*|open onenote	7278
+*|onenote 2013	*|one note	2575
+*|onenote 2013	*|ontenote	7561
+*|onenote 2013	*|onentoe	7590
+*|onenote 2013	*|onenoe	7063
+*|onenote 2013	*|onnote	7478
+*|onenote 2016	*|one note	2905
+*|onenote 2016	*|ontenote	7199
+*|onenote 2016	*|onenoe	6990
+*|onenote 2016	*|onnote	7351
+*|opdrachtprompt	*|cmd	1
+*|open broadcaster software (32bit)	*|obs	410
+*|open broadcaster software (64bit)	*|obs	428
+*|openoffice	*|open office	4199
+*|openoffice writer	*|open office	4502
+*|oracle vm virtualbox	*|virtual box	6691
+*|origin	*|orgin	5977
+*|outlook 2013	*|microsoft outlook	6733
+*|outlook 2013	*|microsoft office	7016
+*|outlook 2013	*|open outlook	7369
+*|outlook 2013	*|outlook2013	8670
+*|outlook 2013	*|ms office	9028
+*|outlook 2013	*|outlook'	8860
+*|outlook 2013	*|outllook	8424
+*|outlook 2013	*|outloook	7560
+*|outlook 2013	*|calendar	7737
+*|outlook 2013	*|outlook.	8565
+*|outlook 2013	*|out look	8852
+*|outlook 2013	*|outlokk	8070
+*|outlook 2013	*|outlool	7989
+*|outlook 2013	*|outllok	7203
+*|outlook 2013	*|outook	7739
+*|outlook 2013	*|office	5946
+*|outlook 2013	*|oulook	7466
+*|outlook 2013	*|email	5367
+*|outlook 2013	*|outut	8027
+*|outlook 2013	*|out'	8690
+*|outlook 2013	*|ou't	8502
+*|outlook 2013	*|ouit	8294
+*|outlook 2013	*|oout	8167
+*|outlook 2013	*|oiut	8588
+*|outlook 2013	*|mail	5094
+*|outlook 2013	*|outt	8175
+*|outlook 2013	*|outy	8216
+*|outlook 2013	*|ouut	8566
+*|outlook 2013	*|ouyt	8460
+*|outlook 2013	*|خعف	8358
+*|outlook 2016	*|microsoft outlook	6585
+*|outlook 2016	*|microsoft office	7049
+*|outlook 2016	*|outlook 2013	8249
+*|outlook 2016	*|open outlook	7051
+*|outlook 2016	*|calendar	7429
+*|outlook 2016	*|outllook	8553
+*|outlook 2016	*|outloook	7539
+*|outlook 2016	*|outlook.	8357
+*|outlook 2016	*|outlokk	8308
+*|outlook 2016	*|outllok	7201
+*|outlook 2016	*|outlool	7785
+*|outlook 2016	*|outook	7678
+*|outlook 2016	*|office	6207
+*|outlook 2016	*|oulook	7395
+*|outlook 2016	*|email	5597
+*|outlook 2016	*|outut	8445
+*|outlook 2016	*|ouit	8289
+*|outlook 2016	*|ou't	8551
+*|outlook 2016	*|oout	8181
+*|outlook 2016	*|oiut	8379
+*|outlook 2016	*|mail	5115
+*|outlook 2016	*|outt	8545
+*|outlook 2016	*|outy	8216
+*|outlook 2016	*|ouyt	8412
+*|overdrive	*|amd over	3003
+*|p-touch editor 5.1	*|ptouch	1721
+*|pa-nen điều khiển	*|control	1410
+*|paint	*|microsoft paint	6924
+*|paint	*|where is paint	9070
+*|paint	*|picture editor	9834
+*|paint	*|windows paint	8599
+*|paint	*|photo editor	8357
+*|paint	*|open paint	6978
+*|paint	*|paintbrush	9259
+*|paint	*|paintpaint	9407
+*|paint	*|paint app	10319
+*|paint	*|paint.exe	9512
+*|paint	*|paintaint	8145
+*|paint	*|ms paint	6333
+*|paint	*|paintint	9627
+*|paint	*|painting	8451
+*|paint	*|mspaing	10331
+*|paint	*|mspaint	3791
+*|paint	*|paiaint	9644
+*|paint	*|drawing	7580
+*|paint	*|paintnt	9354
+*|paint	*|msapint	9657
+*|paint	*|mapaint	10108
+*|paint	*|painbt	9384
+*|paint	*|paingt	9774
+*|paint	*|painjt	10202
+*|paint	*|painmt	8694
+*|paint	*|painnt	8628
+*|paint	*|[paint	9811
+*|paint	*|painrt	9159
+*|paint	*|paints	7907
+*|paint	*|paint'	8152
+*|paint	*|paint4	9892
+*|paint	*|paint]	9309
+*|paint	*|opaint	10355
+*|paint	*|painte	8929
+*|paint	*|paintg	9819
+*|paint	*|paintr	8495
+*|paint	*|paintt	7986
+*|paint	*|mspait	10349
+*|paint	*|painty	7934
+*|paint	*|mspint	10369
+*|paint	*|painyt	8837
+*|paint	*|paiont	8507
+*|paint	*|paiunt	9305
+*|paint	*|panint	10124
+*|paint	*|paoint	9344
+*|paint	*|pasint	10235
+*|paint	*|p[aint	9667
+*|paint	*|pauint	10204
+*|paint	*|pbrush	6843
+*|paint	*|piaint	10221
+*|paint	*|paaint	7900
+*|paint	*|pai nt	10111
+*|paint	*|poaint	9966
+*|paint	*|ppaint	8240
+*|paint	*|spaint	10228
+*|paint	*|paiant	9856
+*|paint	*|paibnt	9886
+*|paint	*|paiint	8211
+*|paint	*|paijnt	10050
+*|paint	*|paimnt	9447
+*|paint	*|pain t	8921
+*|paint	*|зфште	10209
+*|paint	*|[aint	8085
+*|paint	*|حشهدف	9627
+*|paint	*|apint	8154
+*|paint	*|paİnt	9952
+*|paint	*|paont	8875
+*|paint	*|paimt	7771
+*|paint	*|patin	9018
+*|paint	*|oaint	7929
+*|paint	*|paunt	9361
+*|paint	*|paınt	10294
+*|paint	*|piant	7514
+*|paint	*|paibt	9510
+*|paint	*|حشهىف	9717
+*|paint	*|pai t	9973
+*|paint	*|pai'n	10020
+*|paint	*|pqint	9989
+*|paint	*|psint	8508
+*|paint	*|paind	9858
+*|paint	*|paini	9750
+*|paint	*|paitn	7422
+*|paint	*|psiny	9807
+*|paint	*|paina	8382
+*|paint	*|panit	7293
+*|paint	*|pinr	9433
+*|paint	*|pint	6097
+*|paint	*|pant	6566
+*|paint	*|paom	9974
+*|paint	*|art	8298
+*|paint	*|pâ	9852
+*|paint.net	*|paint net	6690
+*|panneau de configuration	*|control	3244
+*|parancssor	*|cmd	1
+*|password safe	*|pwsafe	4284
+*|pdf split and merge basic	*|pdfsam	2413
+*|people	*|address book	4231
+*|people	*|people app	5496
+*|people	*|contacts	3903
+*|people	*|peope	4891
+*|performance monitor	*|perfmon	2630
+*|perl (command line)	*|cmd	520
+*|photos	*|windows import pictures	7626
+*|photos	*|where are my photos	7268
+*|photos	*|microsoft photos	7270
+*|photos	*|import pictures	5663
+*|photos	*|picture viewer	7519
+*|photos	*|import photos	5678
+*|photos	*|photo gallery	4688
+*|photos	*|windows photo	5772
+*|photos	*|photo viewer	6866
+*|photos	*|photo editor	6776
+*|photos	*|open photos	7081
+*|photos	*|my photos	6410
+*|photos	*|photots	6935
+*|photos	*|gallery	7096
+*|photos	*|photoes	7034
+*|photos	*|images	5077
+*|photos	*|photod	6903
+*|photos	*|phoyos	7148
+*|photos	*|photoa	7170
+*|photos	*|phote	7343
+*|photos	*|phots	5898
+*|photos	*|potos	7731
+*|photos	*|phtos	6707
+*|photos	*|fotos	7465
+*|photos	*|photi	6517
+*|photos	*|phoh	7559
+*|photos	*|pics	5552
+*|photos	*|phh	7070
+*|picasa 3	*|picassa	5789
+*|play	*|igi	783
+*|play league of legends	*|lol	2825
+*|playmemories home	*|pmb	3068
+*|playstv	*|plays.	4341
+*|point	*|calyx	1861
+*|pokémon trading card game online	*|pokemon	1436
+*|popcorn time	*|popcorntime	6184
+*|power pdf advanced	*|nuance	1
+*|power pdf standard	*|nuance	618
+*|powerpoint 2013	*|microsoft power point	8175
+*|powerpoint 2013	*|microsoft powerpoint	6430
+*|powerpoint 2013	*|microsoft office	6732
+*|powerpoint 2013	*|open powerpoint	6957
+*|powerpoint 2013	*|presentation	7429
+*|powerpoint 2013	*|power point	4082
+*|powerpoint 2013	*|powerpiont	8282
+*|powerpoint 2013	*|powerpoing	8314
+*|powerpoint 2013	*|poerpoint	7989
+*|powerpoint 2013	*|powepoint	7262
+*|powerpoint 2013	*|poweroint	8258
+*|powerpoint 2013	*|powerpint	7451
+*|powerpoint 2013	*|powerpoit	7602
+*|powerpoint 2013	*|powerpont	7784
+*|powerpoint 2013	*|pwerpoint	8351
+*|powerpoint 2013	*|powerpnt	7267
+*|powerpoint 2013	*|office	7055
+*|powerpoint 2013	*|slides	8296
+*|powerpoint 2013	*|ppt	6401
+*|powerpoint 2013	*|pơ	7854
+*|powerpoint 2016	*|microsoft powerpoint	6442
+*|powerpoint 2016	*|microsoft office	5639
+*|powerpoint 2016	*|open powerpoint	6988
+*|powerpoint 2016	*|power point	4170
+*|powerpoint 2016	*|powepoint	7340
+*|powerpoint 2016	*|powerpint	7508
+*|powerpoint 2016	*|powerpoit	7557
+*|powerpoint 2016	*|powerpnt	6450
+*|powerpoint 2016	*|office	5555
+*|powerpoint 2016	*|slide	7436
+*|powerpoint 2016	*|poer	7065
+*|powerpoint 2016	*|ppt	6007
+*|private internet access	*|pia	1541
+*|pro evolution soccer 2013	*|pes	357
+*|pro evolution soccer 2015	*|pes	275
+*|pro evolution soccer 2016	*|pes	612
+*|prolog	*|swi	1770
+*|prompt de comando	*|cmd	86
+*|prompt dei comandi	*|cmd	1
+*|psql control center & documentation	*|pcc	1
+*|publisher 2013	*|microsoft publisher	4798
+*|publisher 2013	*|publsiher	6328
+*|publisher 2013	*|ms	6061
+*|publisher 2016	*|microsoft publisher	4943
+*|pulse secure	*|junos	3300
+*|příkazový řádek	*|cmd	1
+*|quickbooks pro 2015	*|qb	3561
+*|rabbitmq command prompt (sbin dir)	*|cmd	1
+*|razer synapse	*|rz	4793
+*|reader	*|pdf reader	4283
+*|rechner	*|calc	971
+*|reflect	*|macrium	2891
+*|reiknivél	*|calc	1
+*|rekenmachine	*|calcu	3447
+*|remote desktop connection	*|remote connection	9145
+*|remote desktop connection	*|remote dekstop	9681
+*|remote desktop connection	*|remotedesktop	9045
+*|remote desktop connection	*|mstsc.exe	6836
+*|remote desktop connection	*|remote a	9599
+*|remote desktop connection	*|remote s	9806
+*|remote desktop connection	*|reemote	8713
+*|remote desktop connection	*|remotre	8142
+*|remote desktop connection	*|remote'	9683
+*|remote desktop connection	*|remoite	9097
+*|remote desktop connection	*|remnote	9100
+*|remote desktop connection	*|remotew	9389
+*|remote desktop connection	*|remmote	9147
+*|remote desktop connection	*|remotes	9655
+*|remote desktop connection	*|remotye	9569
+*|remote desktop connection	*|rempote	9405
+*|remote desktop connection	*|rremote	9498
+*|remote desktop connection	*|remotee	8230
+*|remote desktop connection	*|remopte	8287
+*|remote desktop connection	*|remoter	7790
+*|remote desktop connection	*|msctsc	9538
+*|remote desktop connection	*|msstsc	9553
+*|remote desktop connection	*|remort	8630
+*|remote desktop connection	*|remore	7635
+*|remote desktop connection	*|mstsc'	8887
+*|remote desktop connection	*|remoto	8736
+*|remote desktop connection	*|remite	9448
+*|remote desktop connection	*|mstscs	9313
+*|remote desktop connection	*|remoet	7982
+*|remote desktop connection	*|mstscc	9402
+*|remote desktop connection	*|remotw	8467
+*|remote desktop connection	*|mstscv	9344
+*|remote desktop connection	*|mstssc	9266
+*|remote desktop connection	*|rempte	8510
+*|remote desktop connection	*|remtoe	6957
+*|remote desktop connection	*|renite	8807
+*|remote desktop connection	*|renote	9199
+*|remote desktop connection	*|reomte	9046
+*|remote desktop connection	*|rmeote	7513
+*|remote desktop connection	*|romote	9108
+*|remote desktop connection	*|re,ote	9351
+*|remote desktop connection	*|temote	9483
+*|remote desktop connection	*|reote	7719
+*|remote desktop connection	*|msstc	9097
+*|remote desktop connection	*|mstcs	8292
+*|remote desktop connection	*|remoy	9168
+*|remote desktop connection	*|mstsv	9389
+*|remote desktop connection	*|remte	7440
+*|remote desktop connection	*|nstsc	9450
+*|remote desktop connection	*|remio	9451
+*|remote desktop connection	*|remod	9395
+*|remote desktop connection	*|rmote	7762
+*|remote desktop connection	*|remon	9601
+*|remote desktop connection	*|rem,	9270
+*|remote desktop connection	*|mtsc	7481
+*|remote desktop connection	*|msta	9608
+*|remote desktop connection	*|mssc	8708
+*|remote desktop connection	*|stsc	8345
+*|remote desktop connection	*|rds	9791
+*|remote desktop connection	*|rdc	5839
+*|remote desktop connection	*|rdp	3693
+*|remote desktop connection	*|قث	9073
+*|remote desktop connection manager	*|rdcman	4063
+*|remotedesktopverbindung	*|mstsc	624
+*|resource monitor	*|perfmon	3913
+*|rivatuner statistics server	*|rtss	3691
+*|rstudio	*|r studio	4597
+*|run	*|control userpasswords2	5478
+*|run	*|%prefetch%	8845
+*|run	*|start run	8707
+*|run	*|gpedit.ms	8613
+*|run	*|open run	8459
+*|run	*|prefetch	5323
+*|run	*|ejecutar	7339
+*|run	*|appdat	8681
+*|run	*|runcmd	8964
+*|run	*|%run%	8637
+*|run	*|runun	6549
+*|run	*|runn	6512
+*|run	*|.run	8513
+*|run	*|ruun	7532
+*|run	*|reun	8690
+*|run	*|rrun	7622
+*|run	*|ru n	8508
+*|run	*|rubn	7702
+*|run	*|ruin	8449
+*|run	*|rujn	8843
+*|run	*|run'	7055
+*|run	*|run.	8505
+*|run	*|run]	7909
+*|run	*|runb	7850
+*|run	*|rund	8283
+*|run	*|rung	8754
+*|run	*|runm	8627
+*|run	*|eun	7000
+*|run	*|exe	8773
+*|run	*|rum	6278
+*|run	*|+r	8188
+*|run	*|rn	8438
+*|run sql command line	*|sqlplus	3118
+*|samsung update	*|sw	2390
+*|san andreas multiplayer	*|samp	921
+*|sap logon	*|saplogon	4005
+*|scan	*|scan a document	6764
+*|scan	*|how do i scan	7038
+*|scan	*|scan document	7103
+*|scan	*|windows scan	6516
+*|scan	*|how to scan	6419
+*|scan	*|hp scanner	6045
+*|scan	*|scanning	6573
+*|scan	*|scan to	7295
+*|scan	*|scanner	3093
+*|scan	*|scaner	6165
+*|scan	*|scab	6035
+*|scan	*|scam	6112
+*|scan	*|scna	6990
+*|scan to	*|hp	3742
+*|sdk command prompt	*|cmd	1
+*|search	*|chrome	1
+*|secure client monitor	*|ncp	1
+*|secure file transfer client	*|ssh	391
+*|secure shell client	*|ssh	440
+*|service station	*|toshiba	1147
+*|services	*|services.msc	2337
+*|services	*|superfetch	8063
+*|services	*|service.	7139
+*|services	*|sevices	8059
+*|services	*|sẻ	6824
+*|settings	*|where is my control panel	8188
+*|settings	*|change pc settings	6092
+*|settings	*|computer settings	7879
+*|settings	*|windows setting	8243
+*|settings	*|go to settings	8150
+*|settings	*|update and sec	8638
+*|settings	*|pc and devices	7324
+*|settings	*|open settings	7048
+*|settings	*|control panal	8327
+*|settings	*|control panel	3466
+*|settings	*|all settings	8691
+*|settings	*|controlpanel	8206
+*|settings	*|preferences	6825
+*|settings	*|pc settings	4850
+*|settings	*|settingsd	8239
+*|settings	*|setttings	7430
+*|settings	*|ssettings	8776
+*|settings	*|seettings	8595
+*|settings	*|settingds	8712
+*|settings	*|settings'	8518
+*|settings	*|settingss	8564
+*|settings	*|settingh	8603
+*|settings	*|settinga	7960
+*|settings	*|settigns	7878
+*|settings	*|seetings	7868
+*|settings	*|settimgs	8203
+*|settings	*|settomgs	8342
+*|settings	*|settigs	7685
+*|settings	*|settinf	8501
+*|settings	*|settinh	7501
+*|settings	*|settins	7167
+*|settings	*|settngs	8507
+*|settings	*|setings	6178
+*|settings	*|sttings	7931
+*|settings	*|confi	8798
+*|settings	*|sette	7608
+*|site administration	*|asa	1298
+*|skaičiuotuvas	*|calc	752
+*|skype	*|skype'	9734
+*|skype	*|s'k'y	9070
+*|skype	*|skyp[	9074
+*|skype	*|skpe	8663
+*|skype	*|sky[	7490
+*|skype	*|skye	7864
+*|skype	*|skyo	8130
+*|skype	*|skyu	9410
+*|skype	*|skt	9562
+*|skype	*|sku	8392
+*|skype	*|sly	9642
+*|skype	*|syp	9747
+*|skype	*|sj	8986
+*|skype for business 2015	*|lync	1694
+*|skype for business 2016	*|lync	2297
+*|smite	*|hi	5714
+*|snipping tool	*|how do i take a screen shot	9995
+*|snipping tool	*|how do i take a screenshot	9912
+*|snipping tool	*|how to take a screen shot	10096
+*|snipping tool	*|how to take a screenshot	9990
+*|snipping tool	*|how do i screenshot	10500
+*|snipping tool	*|how to print screen	10295
+*|snipping tool	*|open snipping tool	9557
+*|snipping tool	*|how to screen shot	10323
+*|snipping tool	*|take a screenshot	9647
+*|snipping tool	*|how to screenshot	9676
+*|snipping tool	*|screen clipping	9905
+*|snipping tool	*|screen capture	7876
+*|snipping tool	*|snipping tools	8515
+*|snipping tool	*|snipping toll	10050
+*|snipping tool	*|snapping tool	9842
+*|snipping tool	*|clipping tool	9266
+*|snipping tool	*|shipping tool	10377
+*|snipping tool	*|snippingtool	8369
+*|snipping tool	*|snip it tool	10051
+*|snipping tool	*|print screen	7524
+*|snipping tool	*|snippin tool	10325
+*|snipping tool	*|screen print	9971
+*|snipping tool	*|sniping tool	8062
+*|snipping tool	*|snippet tool	9823
+*|snipping tool	*|screen snip	10145
+*|snipping tool	*|screen shot	6896
+*|snipping tool	*|screen grab	9565
+*|snipping tool	*|printscreen	9333
+*|snipping tool	*|screenshot	6292
+*|snipping tool	*|snap shot	10423
+*|snipping tool	*|snip tool	7682
+*|snipping tool	*|snippiing	10199
+*|snipping tool	*|sniipping	10135
+*|snipping tool	*|greenshot	9445
+*|snipping tool	*|snippinmg	10385
+*|snipping tool	*|snippiong	10149
+*|snipping tool	*|snippping	8551
+*|snipping tool	*|snippimg	9735
+*|snipping tool	*|snippign	10039
+*|snipping tool	*|snipiing	10157
+*|snipping tool	*|scissors	9288
+*|snipping tool	*|snapshot	8169
+*|snipping tool	*|sniiping	9716
+*|snipping tool	*|smipping	10008
+*|snipping tool	*|snippinh	8993
+*|snipping tool	*|anipping	9842
+*|snipping tool	*|snippint	9224
+*|snipping tool	*|snippinf	9738
+*|snipping tool	*|sniptool	9715
+*|snipping tool	*|capture	7838
+*|snipping tool	*|snipped	10232
+*|snipping tool	*|snipper	6792
+*|snipping tool	*|clipper	8187
+*|snipping tool	*|sipping	9495
+*|snipping tool	*|snippit	8538
+*|snipping tool	*|snippng	9673
+*|snipping tool	*|snippni	10268
+*|snipping tool	*|snpping	9564
+*|snipping tool	*|snipet	8802
+*|snipping tool	*|sniopp	9584
+*|snipping tool	*|snipip	9505
+*|snipping tool	*|snipit	6479
+*|snipping tool	*|sninip	9650
+*|snipping tool	*|snippo	9131
+*|snipping tool	*|snipni	9873
+*|snipping tool	*|snippy	8450
+*|snipping tool	*|snipop	9451
+*|snipping tool	*|snipp[	10379
+*|snipping tool	*|snip'	9941
+*|snipping tool	*|snip[	7757
+*|snipping tool	*|sinpp	9732
+*|snipping tool	*|snbip	10187
+*|snipping tool	*|sni[[	8369
+*|snipping tool	*|sni[p	8332
+*|snipping tool	*|snnip	8408
+*|snipping tool	*|snikp	9653
+*|snipping tool	*|snips	9172
+*|snipping tool	*|sniup	9719
+*|snipping tool	*|snopp	9531
+*|snipping tool	*|snioo	8744
+*|snipping tool	*|ssnip	9455
+*|snipping tool	*|s'ni	8807
+*|snipping tool	*|nsip	9224
+*|snipping tool	*|knip	8783
+*|snipping tool	*|sbuo	9621
+*|snipping tool	*|grab	9802
+*|snipping tool	*|dnip	9516
+*|snipping tool	*|snoi	8603
+*|snipping tool	*|crop	6412
+*|snipping tool	*|sbip	8612
+*|snipping tool	*|snpi	8556
+*|snipping tool	*|snui	9053
+*|snipping tool	*|snuo	10241
+*|snipping tool	*|snup	9443
+*|snipping tool	*|spin	9172
+*|snipping tool	*|sini	9623
+*|snipping tool	*|trim	10161
+*|snipping tool	*|sni'	10032
+*|snipping tool	*|xnip	9530
+*|snipping tool	*|snit	8433
+*|snipping tool	*|سىه	10352
+*|snipping tool	*|سده	9888
+*|snipping tool	*|cut	8010
+*|snipping tool	*|sns	9896
+*|snipping tool	*|snk	9682
+*|snipping tool	*|tô	9841
+*|socksclient	*|vip	572
+*|software center	*|scc	5088
+*|space engineers toolbox	*|set	1
+*|spotify	*|spotify'	8624
+*|spotify	*|sp[	8679
+*|spotify	*|s[	7492
+*|spyder	*|python	3632
+*|sql plus	*|sqlplus	2508
+*|sql server 2014 configuration manager	*|sql server confi	3819
+*|sql server 2014 configuration manager	*|sql config	3805
+*|sql server 2014 configuration manager	*|sql ma	3879
+*|sql server 2014 management studio	*|sql management	6388
+*|sql server 2014 management studio	*|ssms	2411
+*|sql server 2014 profiler	*|sql pro	2223
+*|sql server 2014 reporting services configuration manager	*|sql server configuration manager	1604
+*|sql server configuration manager	*|sql conf	4082
+*|sql server management studio	*|sql manage	6626
+*|sql server management studio	*|ssms	2635
+*|star citizen launcher	*|cig	4188
+*|star stable	*|starstable	3292
+*|star wars - the old republic	*|swtor	4978
+*|start bluestacks	*|blue sta	7182
+*|start command prompt with ruby	*|cmd	630
+*|start pointblank	*|pb	1720
+*|steam	*|steam'	7970
+*|steam	*|steam,	7890
+*|steam	*|steam]	9043
+*|steam	*|stea'	8940
+*|steam	*|stea,	6010
+*|steam	*|stean	7925
+*|steam	*|csgo	8507
+*|steam	*|dota	8171
+*|steam	*|xcom	9074
+*|steam	*|civ	9386
+*|steam	*|sr	8369
+*|steps recorder	*|psr	1557
+*|sticky notes	*|post it notes	8021
+*|sticky notes	*|stickey notes	8652
+*|sticky notes	*|stick notes	7803
+*|sticky notes	*|stickynotes	7305
+*|sticky notes	*|post its	8154
+*|sticky notes	*|stickies	6428
+*|sticky notes	*|stickyt	8471
+*|sticky notes	*|sitcky	7833
+*|sticky notes	*|postit	6671
+*|sticky notes	*|stciky	8153
+*|sticky notes	*|stickt	7453
+*|sticky notes	*|sticku	7546
+*|sticky notes	*|stcky	7706
+*|sticky notes	*|sicky	7865
+*|sticky notes	*|notas	8059
+*|sticky notes	*|sticj	8039
+*|sticky notes	*|sticl	7658
+*|sticky notes	*|sticy	6916
+*|sticky notes	*|stiky	6396
+*|sticky notes	*|noes	8584
+*|sticky notes	*|nots	7208
+*|sticky notes	*|stii	8441
+*|sticky notes	*|memo	6115
+*|sticky notes	*|stiv	7158
+*|stopwatch	*|stop watch	1689
+*|store	*|microsoft app store	8161
+*|store	*|windows app store	7315
+*|store	*|microsoft store	4915
+*|store	*|open app store	8168
+*|store	*|windows store	3622
+*|store	*|download apps	7989
+*|store	*|windows apps	7526
+*|store	*|window store	6875
+*|store	*|marketplace	8161
+*|store	*|surface app	7615
+*|store	*|apps store	7630
+*|store	*|play store	5216
+*|store	*|free games	5611
+*|store	*|game store	7716
+*|store	*|open store	6587
+*|store	*|free apps	7888
+*|store	*|app store	3628
+*|store	*|appstore	6330
+*|store	*|get apps	7799
+*|store	*|new apps	8139
+*|store	*|ap store	8102
+*|store	*|all apps	6489
+*|store	*|sstore	7955
+*|store	*|storee	8120
+*|store	*|stores	7991
+*|store	*|my app	7955
+*|store	*|storre	7935
+*|store	*|sotre	6108
+*|store	*|srore	7996
+*|store	*|stoer	7523
+*|store	*|storw	8104
+*|store	*|stpre	7096
+*|store	*|stroe	7659
+*|store	*|atore	7557
+*|store	*|sore	6531
+*|store	*|sote	7558
+*|store	*|stot	7782
+*|store	*|stre	7303
+*|store	*|appp	7012
+*|store	*|appa	7913
+*|store	*|shop	4773
+*|store	*|aps	7032
+*|supportassist	*|pc	4231
+*|symantec encryption desktop	*|pgp	1
+*|systeemconfiguratie	*|msconfig	1
+*|system configuration	*|msconfig.exe	5157
+*|system configuration	*|config.sys	6759
+*|system configuration	*|mssconfig	7502
+*|system configuration	*|misconfig	5781
+*|system configuration	*|ms config	5270
+*|system configuration	*|msconfig'	8002
+*|system configuration	*|mscconfig	7634
+*|system configuration	*|msconfing	7907
+*|system configuration	*|msiconfig	7975
+*|system configuration	*|msnconfig	7814
+*|system configuration	*|mcconfig	7522
+*|system configuration	*|mscomfig	7721
+*|system configuration	*|mscinfig	7182
+*|system configuration	*|msconfif	7788
+*|system configuration	*|msconfic	7619
+*|system configuration	*|msconfog	7899
+*|system configuration	*|mscongif	7304
+*|system configuration	*|mscongig	7313
+*|system configuration	*|msconifg	7349
+*|system configuration	*|mscofig	6287
+*|system configuration	*|msconfg	6905
+*|system configuration	*|msconig	7293
+*|system configuration	*|mconfig	7182
+*|system configuration	*|mscnfig	8006
+*|system configuration	*|msonfig	7275
+*|system configuration	*|.msc	8101
+*|system information	*|what version of windows	7172
+*|system information	*|windows version	5169
+*|system information	*|msinfo32	2228
+*|system information	*|sys info	6716
+*|system information	*|system s	7106
+*|system information	*|version	5302
+*|system information	*|syste,	6073
+*|system mechanic	*|iolo	1964
+*|system mechanic professional	*|iolo	1630
+*|system update	*|tvsu	3937
+*|systemkonfiguration	*|msconfig	1
+*|számológép	*|calc	537
+*|símbolo del sistema	*|cmd	1
+*|task scheduler	*|schedule task	6216
+*|task scheduler	*|tasksch	6209
+*|taskbar icon	*|robo	1
+*|team foundation server administration console	*|tfs	604
+*|teamspeak 3 client	*|team,	7973
+*|teamspeak 3 client	*|tea,	6460
+*|teamspeak 3 client	*|ts3	4848
+*|teamviewer 10	*|team viewer	7533
+*|teamviewer 10	*|tea,	6373
+*|teamviewer 11	*|team viewer	6770
+*|teamviewer 11	*|tea,	6393
+*|techpowerup gpu-z	*|gpu z	3867
+*|techpowerup gpu-z	*|gpuz	2309
+*|telegram	*|فثمث	6544
+*|telemetry log for office 2013	*|log off	560
+*|texworks	*|miktex	2379
+*|the elder scrolls online	*|eso	4046
+*|the imagination station	*|ist	1
+*|the sims™ 3	*|the sims 3	3626
+*|the sims™ 3	*|sims 3	2338
+*|the sims™ 3	*|sims3	4188
+*|the sims™ 4	*|the sims 4	3507
+*|the sims™ 4	*|sims 4	1911
+*|the witcher® 3 - wild hunt	*|witcher 3	2967
+*|this pc	*|where is my computer	7884
+*|this pc	*|about my computer	8737
+*|this pc	*|go to my computer	9172
+*|this pc	*|map network drive	6713
+*|this pc	*|open my computer	8148
+*|this pc	*|this computer	6752
+*|this pc	*|recent places	8122
+*|this pc	*|my downloads	8072
+*|this pc	*|open this pc	9238
+*|this pc	*|my computor	8657
+*|this pc	*|my computer	2595
+*|this pc	*|my conputer	9337
+*|this pc	*|my compuer	8366
+*|this pc	*|my desktop	8720
+*|this pc	*|my compter	8150
+*|this pc	*|local disk	8600
+*|this pc	*|my coputer	8294
+*|this pc	*|my comuter	8455
+*|this pc	*|y computer	9248
+*|this pc	*|mycomputer	5991
+*|this pc	*|my computr	8415
+*|this pc	*|compuiter	8863
+*|this pc	*|compouter	9301
+*|this pc	*|compputer	9122
+*|this pc	*|computeer	8966
+*|this pc	*|commputer	9244
+*|this pc	*|computere	9329
+*|this pc	*|computerr	9268
+*|this pc	*|computers	8742
+*|this pc	*|computert	9161
+*|this pc	*|this pic	7712
+*|this pc	*|this poc	9019
+*|this pc	*|computor	8082
+*|this pc	*|computre	9320
+*|this pc	*|computrt	9307
+*|this pc	*|com[uter	9103
+*|this pc	*|comouter	9082
+*|this pc	*|conputer	9061
+*|this pc	*|copmuter	8985
+*|this pc	*|compiter	8723
+*|this pc	*|cumputer	9188
+*|this pc	*|comptuer	8632
+*|this pc	*|comuter	7641
+*|this pc	*|cmputer	8481
+*|this pc	*|compter	7119
+*|this pc	*|compuer	7485
+*|this pc	*|compuet	9125
+*|this pc	*|thic pc	9094
+*|this pc	*|omputer	8170
+*|this pc	*|coputer	7524
+*|this pc	*|this ps	9104
+*|this pc	*|this pv	8980
+*|this pc	*|cdrive	8160
+*|this pc	*|this o	8583
+*|this pc	*|compur	8997
+*|this pc	*|thi pc	8713
+*|this pc	*|my cou	9248
+*|this pc	*|thispc	6048
+*|this pc	*|my cp	8245
+*|this pc	*|my pc	3319
+*|this pc	*|my pv	8657
+*|this pc	*|compy	9250
+*|this pc	*|my cm	8613
+*|this pc	*|my ci	8335
+*|this pc	*|my o	8271
+*|this pc	*|thia	7273
+*|this pc	*|thid	7078
+*|this pc	*|mypc	5626
+*|this pc	*|c dr	8903
+*|this pc	*|my v	8897
+*|this pc	*|thsi	7918
+*|this pc	*|thus	8312
+*|this pc	*|thh	8268
+*|this pc	*|tho	7893
+*|this pc	*|thí	8304
+*|this pc	*|tis	8882
+*|this pc	*|myy	7288
+*|tienda	*|store	337
+*|timer	*|set timer	4907
+*|timer	*|timeer	5484
+*|timer	*|timmer	5304
+*|to-dos	*|to do	585
+*|tomtom home 2	*|tom tom	2608
+*|tonesync for windows	*|zedge	861
+*|toolbox 4.9	*|mf	1270
+*|tools command prompt	*|cmd	1
+*|total video converter	*|tvc	2217
+*|touchpad options(touchpad)	*|dell	1537
+*|track-it! technician client	*|trackit	2256
+*|trader workstation	*|tws	1
+*|translator	*|translate	3188
+*|true image	*|acronis	1085
+*|twitter	*|open twitter	6522
+*|twitter	*|twiiter	6353
+*|twitter	*|twiter	5581
+*|universal media server	*|ums	2409
+*|uplay	*|ubisoft	6409
+*|uplay	*|u[	6774
+*|user's guide	*|users guide	2774
+*|user's guide	*|user guide	2918
+*|uzak masaüstü bağlantısı	*|mstsc	610
+*|vegas pro 13.0 (64-bit)	*|sony vegas	4453
+*|verbinding met extern bureaublad	*|mstsc	1
+*|vẽ	*|paint	1448
+*|vẽ	*|ve	1035
+*|vice city	*|gta	1
+*|vim	*|gvim	2053
+*|virtual account numbers	*|citi	509
+*|virtual machine manager console	*|vmm	318
+*|virtual network editor	*|vm	1482
+*|virus scanner	*|clam	1
+*|virusscan console	*|mc	581
+*|visiontools pro-e	*|vt	431
+*|visual studio 2012	*|devenv	5380
+*|visual studio 2012 arm phone tools command prompt	*|cmd	1
+*|visual studio 2013	*|devenv	5222
+*|visual studio 2013	*|ví	6546
+*|visual studio 2015	*|visual studios	7728
+*|visual studio 2015	*|visualstudio	7730
+*|visual studio 2015	*|devenv	5596
+*|visual studio 2015	*|vius	7370
+*|visual studio 2015	*|ví	7585
+*|visual studio code	*|visual code	4839
+*|visual studio command prompt (2010)	*|cmd	1
+*|vlc media player	*|vlc player	7339
+*|vmware horizon client	*|view	2527
+*|vmware player	*|vmplayer	4486
+*|vmware vsphere client	*|vcenter	5892
+*|vmware vsphere client	*|vp	5534
+*|vmware workstation 12 player	*|vmplayer	5018
+*|voice & video calls	*|skype	1
+*|voice recorder	*|windows voice recorder	6771
+*|voice recorder	*|audio recording	7257
+*|voice recorder	*|sound recording	7522
+*|voice recorder	*|voice recording	6853
+*|voice recorder	*|audio recorder	5989
+*|voice recorder	*|sound recorder	3824
+*|voice recorder	*|record audio	6892
+*|voice recorder	*|recording	5289
+*|voice recorder	*|recoder	6595
+*|voice recorder	*|recore	6931
+*|voice recorder	*|vioce	6945
+*|voice recorder	*|voive	7212
+*|voice recorder	*|recr	7315
+*|voice recorder	*|soud	7302
+*|volume activation management tool 3.1	*|vamt	1
+*|vpn access manager	*|shrew	3739
+*|vuze	*|azu	5812
+*|weather	*|do i need an umbrella	6537
+*|weather	*|will it rain tomorrow	6720
+*|weather	*|will it rain today	6641
+*|weather	*|local weather	6239
+*|weather	*|the weather	6785
+*|weather	*|weather app	6864
+*|weather	*|forecast	6745
+*|weather	*|wheather	5739
+*|weather	*|waether	6597
+*|weather	*|weatehr	6974
+*|weather	*|wather	6190
+*|weather	*|weater	5429
+*|weather	*|weathr	6639
+*|weather	*|wether	5219
+*|where’s my water? 2	*|wheres	2711
+*|who's you daddy alpha	*|whos	909
+*|who's your daddy alpha	*|whos	971
+*|wi-fi hotspot pro	*|wifi	859
+*|wiersz polecenia	*|cmd	1
+*|windows 7 usb dvd download tool	*|windows usb	3804
+*|windows 7 usb dvd download tool	*|windows7	5112
+*|windows 7 usb dvd download tool	*|win 7	4999
+*|windows defender	*|microsoft security essentials	6871
+*|windows defender	*|turn off windows defender	9079
+*|windows defender	*|open windows defender	8159
+*|windows defender	*|run windows defender	9025
+*|windows defender	*|security essentials	8479
+*|windows defender	*|microsoft defender	7026
+*|windows defender	*|windows security	8077
+*|windows defender	*|virus protection	7929
+*|windows defender	*|windowsdefender	8615
+*|windows defender	*|window defender	6386
+*|windows defender	*|widows defender	8913
+*|windows defender	*|scan for virus	8963
+*|windows defender	*|free antivirus	9266
+*|windows defender	*|security scan	7742
+*|windows defender	*|scan computer	8746
+*|windows defender	*|computer scan	8856
+*|windows defender	*|virus scanner	8990
+*|windows defender	*|antimalware	8239
+*|windows defender	*|windows ess	8730
+*|windows defender	*|system scan	8805
+*|windows defender	*|scan virus	9064
+*|windows defender	*|windows di	9055
+*|windows defender	*|anti virus	5961
+*|windows defender	*|anti-virus	8199
+*|windows defender	*|protection	7575
+*|windows defender	*|antivirus	4939
+*|windows defender	*|essential	7139
+*|windows defender	*|defendeer	8777
+*|windows defender	*|defendere	8792
+*|windows defender	*|malicious	8538
+*|windows defender	*|difender	8724
+*|windows defender	*|defemder	8163
+*|windows defender	*|defebder	8628
+*|windows defender	*|maleware	8817
+*|windows defender	*|malware	5987
+*|windows defender	*|dfender	8690
+*|windows defender	*|spyware	7086
+*|windows defender	*|defendr	8553
+*|windows defender	*|deender	9095
+*|windows defender	*|defnder	8128
+*|windows defender	*|windown	7995
+*|windows defender	*|defeder	8479
+*|windows defender	*|defener	8265
+*|windows defender	*|win def	8054
+*|windows defender	*|windowa	9095
+*|windows defender	*|windowd	8578
+*|windows defender	*|windwos	7654
+*|windows defender	*|windoe	7064
+*|windows defender	*|windws	8570
+*|windows defender	*|windos	6710
+*|windows defender	*|defenc	8749
+*|windows defender	*|defee	8549
+*|windows defender	*|defef	8644
+*|windows defender	*|defne	8881
+*|windows defender	*|winde	8095
+*|windows defender	*|defer	7802
+*|windows defender	*|deff	7238
+*|windows defender	*|defi	8422
+*|windows defender	*|deef	8767
+*|windows defender	*|mse	6949
+*|windows defender	*|dè	7606
+*|windows defender	*|dề	8509
+*|windows device recovery tool	*|windows re	3672
+*|windows dvd player	*|play dvd	3143
+*|windows dvd player	*|d:	5247
+*|windows fax and scan	*|scan to computer	6048
+*|windows fax and scan	*|scan documents	7249
+*|windows fax and scan	*|scan and fax	7085
+*|windows fax and scan	*|windows scan	5209
+*|windows fax and scan	*|window fax	7339
+*|windows fax and scan	*|fax scan	7520
+*|windows fax and scan	*|scaan	7747
+*|windows fax and scan	*|scane	7187
+*|windows fax and scan	*|scans	4938
+*|windows fax and scan	*|scab	6159
+*|windows fax and scan	*|scam	6375
+*|windows fax and scan	*|scna	7211
+*|windows fax and scan	*|wfs	5650
+*|windows firewall with advanced security	*|windows security	4972
+*|windows firewall with advanced security	*|window firewall	7216
+*|windows firewall with advanced security	*|advanced fire	7129
+*|windows firewall with advanced security	*|fire w	6871
+*|windows firewall with advanced security	*|wi fi	6236
+*|windows firewall with advanced security	*|wi-fi	6202
+*|windows firewall with advanced security	*|wf	6645
+*|windows imaging and configuration designer	*|icd	1
+*|windows live mail	*|windows mail	4185
+*|windows live mail	*|window live	5576
+*|windows live movie maker	*|windows movie maker	3880
+*|windows live movie maker	*|moviemaker	4805
+*|windows live movie maker	*|video edit	5690
+*|windows live photo gallery	*|windows photo	3453
+*|windows media player	*|open windows media player	7566
+*|windows media player	*|window media player	7246
+*|windows media player	*|open media player	8546
+*|windows media player	*|microsoft media	7864
+*|windows media player	*|windows player	6749
+*|windows media player	*|window player	8415
+*|windows media player	*|windows medai	8554
+*|windows media player	*|windos media	8112
+*|windows media player	*|movie player	5835
+*|windows media player	*|widows media	8124
+*|windows media player	*|video player	5805
+*|windows media player	*|music player	5738
+*|windows media player	*|windowsmedia	7906
+*|windows media player	*|mediaplayer	7546
+*|windows media player	*|windows mea	7692
+*|windows media player	*|windows mi	7189
+*|windows media player	*|windows md	8354
+*|windows media player	*|burn a cd	7424
+*|windows media player	*|burn disc	8505
+*|windows media player	*|cd burner	6369
+*|windows media player	*|copy dvd	7478
+*|windows media player	*|wmplayer	7209
+*|windows media player	*|burn cd	5801
+*|windows media player	*|open cd	7798
+*|windows media player	*|play cd	5746
+*|windows media player	*|mediaa	8452
+*|windows media player	*|play m	8182
+*|windows media player	*|medai	7663
+*|windows media player	*|meida	7154
+*|windows media player	*|medis	7342
+*|windows media player	*|medie	8326
+*|windows media player	*|medu	7721
+*|windows media player	*|medo	8418
+*|windows media player	*|mdia	7868
+*|windows media player	*|mede	7812
+*|windows media player	*|rip	8616
+*|windows media player	*|wmv	8342
+*|windows memory diagnostic	*|windows dia	4933
+*|windows memory diagnostic	*|mdsched	3345
+*|windows powershell	*|windows power shell	7125
+*|windows powershell	*|powershell.exe	7295
+*|windows powershell	*|windows shell	7520
+*|windows powershell	*|power shell	4951
+*|windows powershell	*|powerhsell	7036
+*|windows powershell	*|powersheel	6745
+*|windows powershell	*|poweshell	6304
+*|windows powershell	*|pwershell	7413
+*|windows powershell	*|powerseh	7370
+*|windows powershell	*|pwoer	7641
+*|windows powershell	*|poer	6597
+*|windows powershell	*|powr	7207
+*|windows powershell (x86)	*|power shell	4163
+*|windows powershell ise	*|powershell_ise	5252
+*|windows server update services	*|wsus	264
+*|windows speech recognition	*|voice recognition	4616
+*|windows speech recognition	*|speech to text	4622
+*|windows speech recognition	*|voice to text	4919
+*|windows speech recognition	*|spea	3490
+*|word 2013	*|open microsoft word	8980
+*|word 2013	*|microsoft office	7022
+*|word 2013	*|microsoft words	9942
+*|word 2013	*|microsfot word	9977
+*|word 2013	*|microsft word	9426
+*|word 2013	*|micrsoft word	9620
+*|word 2013	*|office word	8582
+*|word 2013	*|ms office	9545
+*|word 2013	*|open word	6581
+*|word 2013	*|document	8580
+*|word 2013	*|word2013	8491
+*|word 2013	*|ms word	6159
+*|word 2013	*|winword	4637
+*|word 2013	*|msword	7118
+*|word 2013	*|word]	9460
+*|word 2013	*|wordr	9414
+*|word 2013	*|worfd	9357
+*|word 2013	*|micri	9020
+*|word 2013	*|ofice	10223
+*|word 2013	*|worrd	8426
+*|word 2013	*|wword	8461
+*|word 2013	*|woprd	9553
+*|word 2013	*|workd	9933
+*|word 2013	*|woord	8016
+*|word 2013	*|word'	8130
+*|word 2013	*|word.	10126
+*|word 2013	*|mico	10143
+*|word 2013	*|docs	8535
+*|word 2013	*|wo'r	9930
+*|word 2013	*|woed	6928
+*|word 2013	*|wors	9822
+*|word 2013	*|wprd	9250
+*|word 2013	*|wrod	9114
+*|word 2013	*|wird	9789
+*|word 2013	*|صخقی	9972
+*|word 2013	*|mir	10038
+*|word 2013	*|wod	8638
+*|word 2013	*|wrd	9553
+*|word 2013	*|n	10135
+*|word 2016	*|open microsoft word	8599
+*|word 2016	*|microsoft office	5907
+*|word 2016	*|microsoft word	4202
+*|word 2016	*|microsft word	9212
+*|word 2016	*|micrsoft word	9383
+*|word 2016	*|office word	8313
+*|word 2016	*|word 2013	8280
+*|word 2016	*|open word	6413
+*|word 2016	*|ms office	8541
+*|word 2016	*|document	8602
+*|word 2016	*|winword	4338
+*|word 2016	*|ms word	6336
+*|word 2016	*|msword	7305
+*|word 2016	*|wword	8442
+*|word 2016	*|worrd	8433
+*|word 2016	*|micri	8789
+*|word 2016	*|ofice	9015
+*|word 2016	*|workd	9186
+*|word 2016	*|woord	8128
+*|word 2016	*|word'	8205
+*|word 2016	*|docs	8661
+*|word 2016	*|woed	6914
+*|word 2016	*|worf	9333
+*|word 2016	*|wors	9285
+*|word 2016	*|wprd	8593
+*|word 2016	*|wrod	8656
+*|word 2016	*|wird	9243
+*|word 2016	*|mir	9327
+*|word 2016	*|wod	8073
+*|word 2016	*|wrd	9073
+*|wordpad	*|word processing	8428
+*|wordpad	*|word processor	7451
+*|wordpad	*|open wordpad	7773
+*|wordpad	*|text editor	8763
+*|wordpad	*|world pad	8689
+*|wordpad	*|word pad	3813
+*|wordpad	*|wordpas	8028
+*|wordpad	*|workpad	8350
+*|wordpad	*|wodpad	8687
+*|wordpad	*|wordpd	8561
+*|wordpad	*|worpad	7253
+*|wordpad	*|word'	8693
+*|wordpad	*|word[	8488
+*|wordpad	*|worf	7721
+*|wordpad	*|wp	8795
+*|world of tanks	*|wot	2142
+*|world of warcraft classic	*|wow	1228
+*|world of warships	*|wows	4409
+*|x-lite	*|xlite	1553
+*|x-mouse button control	*|x mouse	3104
+*|x-mouse button control	*|xmouse	1998
+*|x-win32 2012	*|xwin	1
+*|x-win32 2014	*|xwin	702
+*|xampp control panel	*|xa,	6999
+*|xbox	*|game bar	6248
+*|xbox	*|game dvr	6668
+*|xonar audio center	*|asus	1753
+*|xonar dg audio center	*|asus	974
+*|xonar dgx audio center	*|asus	1
+*|xonar essence stx audio center	*|asus	574
+*|xtreme download manager	*|xdm	768
+*|xvid_encraw	*|cmd	1
+*|yahoo! mail	*|yahoo mail	2584
+*|yahoo! messenger	*|yahoo messenger	5006
+*|yy语音	*|y'y	2772
+*|¡òãõ¹è¾åñê	*|gare	581
+*|¡òãõ¹èò ¾åñê	*|gare	548
+*|µtorrent	*|utorrent	2704
+*|ãàí¼ä¯àà	*|mt	1
+*|αριθμομηχανή	*|calc	556
+*|γραμμή εντολών	*|cmd	1
+*|ζωγραφική	*|paint	1326
+*|πίνακας ελέγχου	*|πι	1
+*|блокнот	*|notepad	1435
+*|калкулатор	*|calc	1
+*|калькулятор	*|calc	1475
+*|командная строка	*|cmd	1
+*|конфигурация системы	*|msconfig	1
+*|панель управления	*|control	2574
+*|подключение к удаленному рабочему столу	*|mstsc	1
+*|מחשבון	*|calc	995
+*|שורת הפקודה	*|cmd	1
+*|الحاسبة	*|calcu	2947
+*|الكاميرا	*|cam	736
+*|تشغيل	*|run	1
+*|لوحة التحكم	*|control	2382
+*|ماشین حساب	*|calc	1262
+*|موجه الأوامر	*|cmd	1
+*|การีน่า พลัส	*|gare	1
+*|พร้อมท์คำสั่ง	*|cmd	1
+*|เครื่องคิดเลข	*|cal	389
+*|コマンド プロンプト	*|cmd	1
+*|コントロール パネル	*|control	553
+*|ペイント	*|paint	1
+*|メモ帳	*|notepad	585
+*|启动优酷	*|youku	1
+*|启动有道词典	*|yo	1473
+*|启动迅雷7	*|thunder	1630
+*|启动迅雷极速版	*|thunder	1337
+*|命令提示字元	*|cmd	1
+*|命令提示符	*|c'm'd	3078
+*|命令提示符	*|cmd	47
+*|小畫家	*|paint	1466
+*|小算盤	*|calcu	1739
+*|应用商店	*|store	1
+*|影音先锋	*|xf	1
+*|微信	*|wechat	1240
+*|必应词典	*|bing	1
+*|截图工具	*|snip	1613
+*|控制台	*|control	1437
+*|控制面板	*|control panel	3259
+*|画图	*|paint	1008
+*|百度云管家	*|baiduyun	3816
+*|百度云管家	*|bai'du	3166
+*|相机	*|camera	652
+*|系统配置	*|msconfig	1
+*|网易云音乐	*|cloud	2279
+*|西瓜	*|xigua	601
+*|计算器	*|calculator	2855
+*|计算器	*|ca'l	3618
+*|记事本	*|notepad	1130
+*|运行	*|run	729
+*|远程桌面连接	*|remote	506
+*|远程桌面连接	*|mstsc	923
+*|酷我音乐	*|k	1132
+*|酷狗音乐	*|kugou	922
+*|阿里旺旺2014	*|ali	1
+*|電卓	*|calculator	2318
+*|계산기	*|calculator	2357
+*|계산기	*|ㄱ	3716
+*|그림판	*|paint	1392
+*|메모장	*|notepad	1496
+*|메모장	*|memo	2800
+*|명령 프롬프트	*|cmd	1
+*|스토어	*|store	1
+*|시스템 구성	*|msconfig	1
+*|제어판	*|control panel	3157
+*|카메라	*|camera	740
+*|카카오톡	*|kakaotalk	3775
+*|캡처 도구	*|snip	1639
